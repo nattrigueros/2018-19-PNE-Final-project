@@ -9,7 +9,7 @@ print("\nConnecting to server: {}:{}\n".format(SERVER, PORT))
 # Connect with the server
 conn = http.client.HTTPConnection(SERVER, PORT)
 
-# SOME REQUESTS FOR OUR SERVER OF EVERY ENDPOINT AND ALSO OF ENDPOINTS WITH VARIATION IN THE ORDER OF PARAMETERS
+# SOME REQUESTS FOR OUR SERVER OF EVERY ENDPOINT TO CHECK OUR JSON OPTION WORKS
 
 conn.request("GET", "/listSpecies?limit=121&json=1")
 r1 = conn.getresponse()
@@ -59,7 +59,7 @@ print("Response received!: {} {}\n".format(r1.status, r1.reason))
 data1 = r1.read().decode("utf-8")
 response = json.loads(data1)
 print (response)
-conn.request("GET", "/geneCal?gene=FRAT1&json=1")
+conn.request("GET", "/geneCalc?gene=FRAT1&json=1")
 r1 = conn.getresponse()
 print("Response received!: {} {}\n".format(r1.status, r1.reason))
 data1 = r1.read().decode("utf-8")
