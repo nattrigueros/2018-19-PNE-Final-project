@@ -1,0 +1,1290 @@
+BASIC LEVEL TEST REPORT
+
+   Let's try the first endpoint: /listSpecies
+
+   - Let's try:  http://localhost:8000/listSpecies
+     <html>
+                            <body style="background-color: pink;">
+                            <font face="Trebuchet MS">THIS IS THE LIST OF SPECIES
+                            <ol>
+                            <li>Flycatcher</li><li>American beaver</li><li>C.intestinalis</li><li>Central bearded dragon</li><li>Golden-collared manakin</li><li>Steppe mouse</li><li>White-throated sparrow</li><li>Kangaroo rat</li><li>Gibbon</li><li>Mouse FVB/NJ</li><li>Mummichog</li><li>Algerian mouse</li><li>Guppy</li><li>Clown anemonefish</li><li>Mongolian gerbil</li><li>Saccharomyces cerevisiae</li><li>Paramormyrops kingsleyae</li><li>Lesser Egyptian jerboa</li><li>Mouse C3H/HeJ</li><li>Orange clownfish</li><li>Hedgehog</li><li>Koala</li><li>Spiny chromis</li><li>Blue-crowned manakin</li><li>American mink</li><li>Guinea Pig</li><li>Horse</li><li>Armadillo</li><li>Burton's mouthbrooder</li><li>Crab-eating macaque</li><li>Japanese quail</li><li>Budgerigar</li><li>Naked mole-rat male</li><li>Ma's night monkey</li><li>Polar bear</li><li>Greater bamboo lemur</li><li>Sailfin molly</li><li>Mangrove rivulus</li><li>Great spotted kiwi</li><li>Argentine black and white tegu</li><li>Coquerel's sifaka</li><li>Donkey</li><li>Brazilian guinea pig</li><li>Duck</li><li>Zebrafish</li><li>Northern American deer mouse</li><li>Common canary</li><li>Golden Hamster</li><li>Channel catfish</li><li>Western mosquitofish</li><li>Swamp eel</li><li>Bengalese finch</li><li>Cat</li><li>Platypus</li><li>Little spotted kiwi</li><li>Tuatara</li><li>Shortfin molly</li><li>Drosophila melanogaster</li><li>Tasmanian devil</li><li>Zebra mbuna</li><li>Mouse WSB/EiJ</li><li>Ballan wrasse</li><li>Great Tit</li><li>Helmeted guineafowl</li><li>Lamprey</li><li>Spotted gar</li><li>Monterrey platyfish</li><li>Upper Galilee mountains blind mole rat</li><li>Pika</li><li>Sloth</li><li>Chimpanzee</li><li>Bolivian squirrel monkey</li><li>Ferret</li><li>Agassiz's desert tortoise</li><li>Arctic ground squirrel</li><li>Mouse PWK/PhJ</li><li>Japanese medaka HdrR</li><li>Megabat</li><li>Abingdon island giant tortoise</li><li>Black snub-nosed monkey</li><li>Mexican tetra</li><li>Lyretail cichlid</li><li>Mouse CAST/EiJ</li><li>Lesser hedgehog tenrec</li><li>Zebra Finch</li><li>Elephant</li><li>Capuchin</li><li>Anole lizard</li><li>Panda</li><li>Daurian ground squirrel</li><li>Pig</li><li>Mouse</li><li>Mouse NZO/HlLtJ</li><li>Spoon-billed sandpiper</li><li>Wallaby</li><li>Tiger tail seahorse</li><li>Cow</li><li>American bison</li><li>Mouse A/J</li><li>Japanese medaka HSOK</li><li>Bonobo</li><li>Gorilla</li><li>Emu</li><li>Okarito brown kiwi</li><li>Dog</li><li>Chilean tinamou</li><li>Sheepshead minnow</li><li>Chinese hamster PICR</li><li>Alpaca</li><li>Blue tit</li><li>Zig-zag eel</li><li>Pig-tailed macaque</li><li>Ryukyu mouse</li><li>Angola colobus</li><li>Sheep</li><li>Drill</li><li>Eastern happy</li><li>Japanese medaka HNI</li><li>Cod</li><li>Hagfish</li><li>Tarsier</li><li>Indian medaka</li><li>Sooty mangabey</li><li>Stickleback</li><li>Amazon molly</li><li>Mouse DBA/2J</li><li>Mouse C57BL/6NJ</li><li>Dark-eyed junco</li><li>Chinese hamster CHOK1GS</li><li>Xenopus</li><li>Dingo</li><li>Dolphin</li><li>Ugandan red Colobus</li><li>Red-bellied piranha</li><li>Mouse Lemur</li><li>Midas cichlid</li><li>Caenorhabditis elegans</li><li>Tetraodon</li><li>Makobe Island cichlid</li><li>Platyfish</li><li>Shrew mouse</li><li>Chinese hamster CriGri</li><li>Long-tailed chinchilla</li><li>Hyrax</li><li>Mouse BALB/cJ</li><li>Naked mole-rat female</li><li>Ruff</li><li>Vervet-AGM</li><li>Goat</li><li>Bushbaby</li><li>Coelacanth</li><li>Pink-footed goose</li><li>Macaque</li><li>Marmoset</li><li>Turbot</li><li>Periophthalmus magnuspinnatus</li><li>Chinese softshell turtle</li><li>Leopard</li><li>Degu</li><li>Climbing perch</li><li>Tongue sole</li><li>Mainland tiger snake</li><li>Mouse CBA/J</li><li>Tilapia</li><li>Gelada</li><li>Prairie vole</li><li>Fugu</li><li>Australian saltwater crocodile</li><li>Rabbit</li><li>Wild yak</li><li>Red fox</li><li>Bicolor damselfish</li><li>Shrew</li><li>Mouse AKR/J</li><li>Greater amberjack</li><li>Chicken</li><li>Mouse NOD/ShiLtJ</li><li>Painted turtle</li><li>Olive baboon</li><li>Alpine marmot</li><li>Orangutan</li><li>Asian bonytongue</li><li>Squirrel</li><li>C.savignyi</li><li>Golden snub-nosed monkey</li><li>Northern pike</li><li>Turkey</li><li>Mouse LP/J</li><li>Damara mole rat</li><li>Tiger</li><li>Yellowtail amberjack</li><li>Ocean sunfish</li><li>American black bear</li><li>Tree Shrew</li><li>Opossum</li><li>Rat</li><li>Mouse 129S1/SvImJ</li><li>Human</li><li>Microbat</li>
+                            </ol>
+                            </font>
+                            </body>
+                            </html>
+
+   - Let's try now setting a limit: http://localhost:8000/listSpecies?limit=5
+     <html>
+                            <body style="background-color: pink;">
+                            <font face="Trebuchet MS">THIS IS THE LIST OF SPECIES
+                            <ol>
+                            <li>Flycatcher</li><li>American beaver</li><li>C.intestinalis</li><li>Central bearded dragon</li><li>Golden-collared manakin</li>
+                            </ol>
+                            </font>
+                            </body>
+                            </html>
+
+   - Let's try now setting another limit: http://localhost:8000/listSpecies?limit=34
+     <html>
+                            <body style="background-color: pink;">
+                            <font face="Trebuchet MS">THIS IS THE LIST OF SPECIES
+                            <ol>
+                            <li>Mouse</li><li>Human</li><li>Guinea Pig</li><li>Mouse CBA/J</li><li>Midas cichlid</li><li>Anole lizard</li><li>Capuchin</li><li>Ballan wrasse</li><li>Leopard</li><li>Fugu</li><li>Black snub-nosed monkey</li><li>Zig-zag eel</li><li>Blue-crowned manakin</li><li>Damara mole rat</li><li>Opossum</li><li>Donkey</li><li>Platyfish</li><li>Little spotted kiwi</li><li>Ruff</li><li>Stickleback</li><li>Chinese hamster PICR</li><li>Steppe mouse</li><li>Indian medaka</li><li>Upper Galilee mountains blind mole rat</li><li>Abingdon island giant tortoise</li><li>Spiny chromis</li><li>Asian bonytongue</li><li>Tasmanian devil</li><li>Chicken</li><li>Coelacanth</li><li>Helmeted guineafowl</li><li>Mouse A/J</li><li>Sailfin molly</li><li>Koala</li>
+                            </ol>
+                            </font>
+                            </body>
+                            </html>
+
+   - Let's try now setting no limit: http://localhost:8000/listSpecies?limit=
+     <html>
+                            <body style="background-color: pink;">
+                            <font face="Trebuchet MS">THIS IS THE LIST OF SPECIES
+                            <ol>
+                            <li>Mouse</li><li>Human</li><li>Guinea Pig</li><li>Mouse CBA/J</li><li>Midas cichlid</li><li>Anole lizard</li><li>Capuchin</li><li>Ballan wrasse</li><li>Leopard</li><li>Fugu</li><li>Black snub-nosed monkey</li><li>Zig-zag eel</li><li>Blue-crowned manakin</li><li>Damara mole rat</li><li>Opossum</li><li>Donkey</li><li>Platyfish</li><li>Little spotted kiwi</li><li>Ruff</li><li>Stickleback</li><li>Chinese hamster PICR</li><li>Steppe mouse</li><li>Indian medaka</li><li>Upper Galilee mountains blind mole rat</li><li>Abingdon island giant tortoise</li><li>Spiny chromis</li><li>Asian bonytongue</li><li>Tasmanian devil</li><li>Chicken</li><li>Coelacanth</li><li>Helmeted guineafowl</li><li>Mouse A/J</li><li>Sailfin molly</li><li>Koala</li><li>Mouse FVB/NJ</li><li>Chinese hamster CHOK1GS</li><li>Mouse LP/J</li><li>Naked mole-rat female</li><li>Spoon-billed sandpiper</li><li>Duck</li><li>Bolivian squirrel monkey</li><li>Bengalese finch</li><li>Marmoset</li><li>Sheep</li><li>Olive baboon</li><li>Crab-eating macaque</li><li>Mainland tiger snake</li><li>Goat</li><li>Mummichog</li><li>American black bear</li><li>Mouse NZO/HlLtJ</li><li>Wallaby</li><li>Dolphin</li><li>Western mosquitofish</li><li>Cat</li><li>Bonobo</li><li>Gibbon</li><li>Vervet-AGM</li><li>Cow</li><li>Clown anemonefish</li><li>Shrew mouse</li><li>Japanese quail</li><li>Tarsier</li><li>Great spotted kiwi</li><li>Pig-tailed macaque</li><li>Tuatara</li><li>Pink-footed goose</li><li>Climbing perch</li><li>Spotted gar</li><li>Golden snub-nosed monkey</li><li>Daurian ground squirrel</li><li>Amazon molly</li><li>Turbot</li><li>Algerian mouse</li><li>Lamprey</li><li>Xenopus</li><li>Agassiz's desert tortoise</li><li>American bison</li><li>Mouse 129S1/SvImJ</li><li>Channel catfish</li><li>Degu</li><li>Angola colobus</li><li>Golden-collared manakin</li><li>Eastern happy</li><li>Greater bamboo lemur</li><li>Mouse WSB/EiJ</li><li>Armadillo</li><li>Mangrove rivulus</li><li>Mouse DBA/2J</li><li>Arctic ground squirrel</li><li>Gorilla</li><li>Mouse Lemur</li><li>Drill</li><li>Central bearded dragon</li><li>American mink</li><li>Great Tit</li><li>Macaque</li><li>Platypus</li><li>Japanese medaka HNI</li><li>Hagfish</li><li>Dingo</li><li>Zebrafish</li><li>Mouse NOD/ShiLtJ</li><li>Bicolor damselfish</li><li>Long-tailed chinchilla</li><li>Mouse C57BL/6NJ</li><li>Mexican tetra</li><li>Squirrel</li><li>Alpaca</li><li>Australian saltwater crocodile</li><li>White-throated sparrow</li><li>Orange clownfish</li><li>Tiger</li><li>Turkey</li><li>Ugandan red Colobus</li><li>Alpine marmot</li><li>Common canary</li><li>Okarito brown kiwi</li><li>Argentine black and white tegu</li><li>Sloth</li><li>Ryukyu mouse</li><li>Shrew</li><li>Zebra Finch</li><li>Gelada</li><li>Tiger tail seahorse</li><li>Brazilian guinea pig</li><li>Periophthalmus magnuspinnatus</li><li>Ma's night monkey</li><li>Microbat</li><li>Pig</li><li>Coquerel's sifaka</li><li>Drosophila melanogaster</li><li>Makobe Island cichlid</li><li>Lesser hedgehog tenrec</li><li>Dark-eyed junco</li><li>Red fox</li><li>Chimpanzee</li><li>Chinese hamster CriGri</li><li>Greater amberjack</li><li>Hedgehog</li><li>Elephant</li><li>Lyretail cichlid</li><li>Chinese softshell turtle</li><li>Prairie vole</li><li>Ocean sunfish</li><li>Polar bear</li><li>Emu</li><li>Rabbit</li><li>Monterrey platyfish</li><li>Sheepshead minnow</li><li>C.intestinalis</li><li>Red-bellied piranha</li><li>Northern pike</li><li>Pika</li><li>Ferret</li><li>C.savignyi</li><li>Mongolian gerbil</li><li>Paramormyrops kingsleyae</li><li>Lesser Egyptian jerboa</li><li>Kangaroo rat</li><li>Sooty mangabey</li><li>Tilapia</li><li>Orangutan</li><li>Painted turtle</li><li>Zebra mbuna</li><li>Horse</li><li>Golden Hamster</li><li>Megabat</li><li>Yellowtail amberjack</li><li>Blue tit</li><li>Mouse PWK/PhJ</li><li>Cod</li><li>Burton's mouthbrooder</li><li>Saccharomyces cerevisiae</li><li>Tongue sole</li><li>Dog</li><li>Swamp eel</li><li>Panda</li><li>American beaver</li><li>Budgerigar</li><li>Northern American deer mouse</li><li>Flycatcher</li><li>Wild yak</li><li>Mouse BALB/cJ</li><li>Mouse CAST/EiJ</li><li>Rat</li><li>Bushbaby</li><li>Naked mole-rat male</li><li>Caenorhabditis elegans</li><li>Guppy</li><li>Japanese medaka HSOK</li><li>Tetraodon</li><li>Chilean tinamou</li><li>Tree Shrew</li><li>Mouse C3H/HeJ</li><li>Shortfin molly</li><li>Japanese medaka HdrR</li><li>Hyrax</li><li>Mouse AKR/J</li>
+                            </ol>
+                            </font>
+                            </body>
+                            </html>
+
+
+
+
+
+
+
+
+   Let's try the second endpoint: /karyotype
+
+   - Let's try entering a valid specie: http://localhost:8000/karyotype?specie=mouse
+     <html>
+                               <body style="background-color: pink;">
+                               <font face="Trebuchet MS">This is the karyotype information of the  mouse:<ul><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li><li>10</li><li>11</li><li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li><li>18</li><li>19</li><li>X</li><li>Y</li><li>MT</li>
+                                   </ul>
+                                   </font>
+                                   </body>
+                                   </html>
+
+   - Let's try entering another valid specie: http://localhost:8000/karyotype?specie=gorilla
+     <html>
+                               <body style="background-color: pink;">
+                               <font face="Trebuchet MS">This is the karyotype information of the  gorilla:<ul><li>1</li><li>2A</li><li>2B</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li><li>10</li><li>11</li><li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li><li>18</li><li>19</li><li>20</li><li>21</li><li>22</li><li>X</li><li>MT</li>
+                                   </ul>
+                                   </font>
+                                   </body>
+                                   </html>
+
+   - Let's try entering a combination of letters that are not a valid specie: http://localhost:8000/karyotype?specie=jakjfka
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering a combination of numbers that are not a valid specie: http://localhost:8000/karyotype?specie=1231
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering a combination of numbers and letters that are not a valid specie: http://localhost:8000/karyotype?specie=jld342
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try not specifying a specie: http://localhost:8000/karyotype
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try submitting in blank: http://localhost:8000/karyotype?specie=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+
+
+
+
+
+
+   Let's try the third and last endpoint of this basic part: /chromosomeLength
+
+    - Let's try entering a valid specie and valid chromosome(number): http://localhost:8000/chromosomeLength?specie=mouse&chromo=1
+        <html>
+                                                   <body style="background-color: pink;"><font face="Trebuchet MS">This is the length of the 1 chromosome of the mouse:<ul><li>195471971</li>
+                                                   </ul>
+                                                   </body>
+                                                   </html>
+
+    - Let's try entering a valid specie and valid chromosome(letter): http://localhost:8000/chromosomeLength?specie=human&chromo=X
+        <html>
+                                                   <body style="background-color: pink;"><font face="Trebuchet MS">This is the length of the X chromosome of the human:<ul><li>156040895</li>
+                                                   </ul>
+                                                   </body>
+                                                   </html>
+
+    - Let's try entering a valid specie and invalid chromosome(combination of letters): http://localhost:8000/chromosomeLength?specie=human&chromo=jsidfjlksajkf
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try not introducing one of the parameters in the url: http://localhost:8000/chromosomeLength?specie=human
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+    - Let's try entering a valid specie and invalid chromosome(combination of numbers): http://localhost:8000/chromosomeLength?specie=human&chromo=23232
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering an invalid specie(combination of letters) and invalid chromosome: http://localhost:8000/chromosomeLength?specie=ijsdflkasf&chromo=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering an invalid specie(combination of numbers) and invalid chromosome: http://localhost:8000/chromosomeLength?specie=34232&chromo=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering both invalid parameters(wrong specie and wrong chromosome): http://localhost:8000/chromosomeLength?specie=jfka&chromo=klafjka
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now changing the order of parameters when entering the url, let's try now typing first the chromosome and then the specie: http://localhost:8000/chromosomeLength?chromo=1&specie=mouse
+        <html>
+                                                   <body style="background-color: pink;"><font face="Trebuchet MS">This is the length of the 1 chromosome of the mouse:<ul><li>195471971</li>
+                                                   </ul>
+                                                   </body>
+                                                   </html><html>
+                                                   <body style="background-color: pink;"><font face="Trebuchet MS">This is the length of the 1 chromosome of the mouse:<ul><li>195471971</li>
+                                                   </ul>
+                                                   </body>
+                                                   </html>
+
+        If we know set one of the parameters invalid, an error page is raised:
+            <!DOCTYPE html>
+            <html lang="en" dir="ltr">
+              <head>
+                <meta charset="utf-8">
+                <title>Error</title>
+              </head>
+              <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+                <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+                <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+              </body>
+            </html>
+
+    - Let's try submiting in blank: http://localhost:8000/chromosomeLength?specie=&chromo=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try not sending parameters: http://localhost:8000/chromosomeLength
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending one of the parameters in blank: http://localhost:8000/chromosomeLength?specie=mouse&chromo=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+
+
+
+    Let's try the main endpoint: /
+
+    - Let's try to get the main page: http://localhost:8000/
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Welcome! Let's get some interesting information from Ensembl</title>
+          </head>
+          <body style="background-color: lightgreen;">
+          <font align="center" face="Trebuchet MS,arial">
+            <MARQUEE bgcolor = #4FDFC4 ><h1>WELCOME!</h1></MARQUEE>
+            <h1>Let's get some interesting information from Ensembl</h1>
+          </font>
+            <p>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</p>
+            <img align ='right' height="450px" src="https://www.verywellhealth.com/thmb/hzmwXM1_hCXSBLzlDlXTMamEEUo=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/147219131-56a09a665f9b58eba4b1fd03.jpg">
+            <form action='/listSpecies' method="get">
+                <font face="Trebuchet MS"><b>GET A LIST OF THE AVAILABLE SPECIES IN THE DATA BASE</b></font><br><br>
+                <font face="Trebuchet MS">Would you like to set a limit?</font>
+                <input type = 'text' size="5" name="limit"><br><br>
+                <input type = 'checkbox' name="json" value="1">
+                <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+                <input type = 'submit' value="SUBMIT">
+            </form>
+
+            <p>____________________________________________________________________________________</p>
+            <form action='/karyotype' method="get">
+                <font face="Trebuchet MS"><b>GET THE FULL KARYOTYPE INFORMATION OF A GIVEN SPECIE</b></font><br><br>
+                <font face="Trebuchet MS"> Introduce the name of the desired specie:</font>
+                <input type = 'text' size="19" name="specie"><br><br>
+                <input type = 'checkbox' name="json" value="1">
+                <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+                <input type = 'submit' value="SUBMIT">
+             </form>
+
+            <p>____________________________________________________________________________________</p>
+            <form action='/chromosomeLength' method="get">
+                <font face="Trebuchet MS"><b>GET THE CHROMOSOME LENGTH INFORMATION OF A GIVEN SPECIE</b></font><br><br>
+                <font face="Trebuchet MS">Introduce the name of the desired specie:</font>
+                <input type = 'text' size="19" name="specie"><br>
+                <font face="Trebuchet MS">Introduce the desired chromosome:</font>
+                <input type = 'text' size="19" name="chromo"><br><br>
+                <input type = 'checkbox' name="json" value="1">
+                <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+                <input type = 'submit' value="SUBMIT"><br>
+             </form>
+            <p>____________________________________________________________________________________</p>
+            <form action='/geneSeq' method="get">
+                <font face="Trebuchet MS"><b>GET THE SEQUENCE OF A GIVEN HUMAN GENE</b></font><br><br>
+                <font face="Trebuchet MS">Introduce the desired gene: </font>
+                <input type = 'text' size="19" name="gene"><br><br>
+                <input type = 'checkbox' name="json" value="1">
+                <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+                <input type = 'submit' value="SUBMIT">
+            </form>
+
+            <p>____________________________________________________________________________________</p>
+            <form action='/geneInfo' method="get">
+                <font face="Trebuchet MS"><b>GET DIFFERENT KINDS OF INFORMATION ABOUT A GIVEN GENE</b></font><br><br>
+                <font face="Trebuchet MS">Introduce the desired gene: </font>
+                <input type = 'text' size="19" name="gene"><br><br>
+                <input type = 'checkbox' name="json" value="1">
+                <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+                <input type = 'submit' value="SUBMIT">
+             </form>
+
+            <p>____________________________________________________________________________________</p>
+            <form action='/geneCal' method="get">
+                <font face="Trebuchet MS"><b>GET THE TOTAL LENGTH AND THE PERCENTAGE OF ALL BASES OF A GIVEN GENE</b></font><br><br>
+                <font face="Trebuchet MS">Introduce the desired gene: </font>
+                <input type = 'text' size="19" name="gene"><br><br>
+                <input type = 'checkbox' name="json" value="1">
+                <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+                <input type = 'submit' value="SUBMIT">
+             </form>
+            <p>____________________________________________________________________________________</p>
+            <form action='/geneList' method="get">
+                <font face="Trebuchet MS"><b>GET THE NAMES OF THE GENES IN A GIVEN CHROMOSOME FROM A START TO AN END POINT</b></font><br><br>
+                <font face="Trebuchet MS">Introduce the desired chromosome:</font>
+                <input type = 'text' size="19" name="chromo"><br>
+                <font face="Trebuchet MS">Introduce the point of start:</font>
+                <input type = 'text' size="19" name="start"><br>
+                <font face="Trebuchet MS">Introduce the point of end:</font>
+                <input type = 'text' size="19" name="end"><br><br>
+                <input type = 'checkbox' name="json" value="1">
+                <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+                <input type = 'submit' value="SUBMIT">
+             </form>
+          </body>
+        </html>
+
+
+    - Let's try something that is not a valid endpoint: http://localhost:8000/kdkakl
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+
+
+
+
+MEDIUM LEVEL TEST REPORT
+
+    Let's try the first endpoint for this second part: /geneSeq
+
+    - Let's try with a valid gene: http://localhost:8000/geneSeq?gene=FRAT1
+        <html>
+                                               <body style="background-color: pink;">
+                                               <font face="Trebuchet MS">The sequence corresponding to gene</font>
+                                               FRAT1
+    <font face="Trebuchet MS">is</font>
+    ATTCCGGCTCCCGCGGCTGCAGGCGCGCGGCTAGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCGGCCCCGGTCCAGACTTAGTCTTCAGCTCCGCGCCCGCTCCGCCGCGGCCCACCGCGCCCGCCGGCAGCCGAGCCCCCAGCGACGCCCGCACAGCTCCGGGTGCCCAGACAGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGAGGACAGCTTCCTCCTACTGCAGCAGTCAGTGGCGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGCACAGCCCGGCCTCGCCGTGCGGGCCCCCGGGGGCGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCAGGTCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCGTTGGCGGAGACTGTGGGCCCGGCGCCCCCTGGGGTCCTGCGCTGCGCCCTGGGGGACCGCGGCCGCGTGCGGGGCCGCGCTGCGCCCTACTGCGTGGCCGAGCTCGCCACAGGCCCCAGCGCGCTGTCCCCACTGCCCCCTCAGGCCGACCTTGATGGGCCTCCGGGAGCTGGCAAGCAGGGCATCCCGCAGCCGCTGTCGGGTCCGTGCCGGCGAGGATGGCTCCGGGGCGCCGCCGCCTCCCGCCGCCTGCAGCAGCGACGCGGGTCCCAACCAGAAACCCGCACAGGCGACGACGACCCGCACCGGCTTCTGCAGCAGCTAGTGCTCTCTGGAAACCTCATCAAGGAGGCCGTGCGAAGGCTTCATTCGCGACGGCTGCAGTTACGTGCAAAGCTTCCCCAACGCCCGCTCCTGGGACCTCTGTCGGCCCCGGTGCATGAACCCCCTTCGCCTCGCAGCCCTCGCGCGGCCTGCAGTGACCCTGGCGCCTCCGGGAGGGCGCAGCTCAGAACTGGCGACGGCGTTCTTGTGCCTGGCAGCTAACACGCCCGGGGTGGCCACAGCGCCAGCCTCAGACTGGAGGGCAAGGGGTTCCCTTGAGGGCTGCAGTTCTACTCAGGCTGGTGGAGAACTCTGGCTTTTGGAAGCGAGAGTAAAAAGCTAATGACGAGGAACCGAAAAATCGCGAGTGTTTCGCGGGTAACTGGGGTTGAGGGCCAAAATATTTGGAATGAAGGACTTTGGCCCTATTTAAGGCAGATTTTACAGAGCGCACCTCAAACGTACAAGTCAGTAGGACTCCTTATTTGGCGTGACCCGACCTGGCCGCGGAGCCTGCATTTCCTCGCAGCCTCTCAGTGCCCTCCAGCCCCGCGACCATGTGGCCACAATCCACGCTTCTCCGGATCGCGGTGCGCCGGAACCACGGAGGATGATGCCAGTTACTTGCTTTACCTTTTCAGGGCTGGCTCCTGATCCACTTTGGGGGAGGAGAACATGAGTAGATAATTTCAGGGTGCAGCCCAATCTGCCAGACTTAAAAAAACCATCTTGTGTCTTTGGAGGTGCTGCTTAATACCAAACATGCGGTGCCATGAAGGGACCCTTTGGGGGTTGAATAGGAGTTAACCCCTGCGCTCTCTTTGCAACTGTCTCTCTTCTCAGAGTGGTGGGGGAAGGCTGTACGACACGGGTGGGGAAAGGAGGTGGGGGCGGGGAGTATTGAATGGTGGTGGAAGGGTAGAGAGGCGCGGAGTGAACCCCACGCCCTGTCTAAAGTGTATTTTCAGAGCCGGCCCGCCTCTCCTCGGTTCAAGGTCACTGTTTCCTGGGCACGCACTGGGTTGCGGGACAGAGTAGCCAGGTTCTGCCGGTGCTCGGAGAAGAGCGCAGTGTTTTGCAAGTGCTGGAGTCTCCTGAGGACACGCGCGTCGCCGCCACCGCGGGTGTGGGAAAGCGCGGACGTGCTGGGCGGCTGTGCTTCGGTAGGCGACCACCGCCCCTGGCCGCGCTCCGGGCTTTCACGGAAACTCCCGAGACCGGGCCCTGGGTTCCTCCTCTCCTACTCGGCTCTGCAGTCCTACTCAAGCGGGTGGCTCTGGGATCCTGGGGGCCTGGGTTGGGGGCTAGGGAGACGCCATGTGATGGACACTCCAGGGACACACAGCCTAGCACAGCAGCTTATAATGGGCTCTCCGGGGCCATTTGCAATAACAGCTGCAATTCCCTGGATAGACGAGTTGATTTCCTCCCTCTGCCCCTCCCCCAGCCATGCCAGCTGGCCTTTGTAAGTGCAGGAAACCGAGTAGAAAATGTGACCCTCCAAATGGAGAAGCTGCAGGCTTTGCCATTGTGAACCATGGTGAAGTGCTTGGAACATACTGTTCACTCACTCTAAAGGCGCTGAGACTGTGCTGTTGTTCTCGTTTTTATAGTCAATGGCTTGTTCATCATCCAGATGTGGCTACTGACATATCTACACTTCGCACCGGAGTGTCTGGAATTGTGGCTATCCTGATTATAGGATTTTAACTTAACTGAAATGCCTGCTTTGAATAAATGTGTTGGGTTTTTTGTTTGGTTTTATTTTATACTTGCCATCAGTGAAAAAGATGTACAGAACACATTTCTCTGATCTCCATAAACATGAAAACACTTGAAATCTC
+                                               </body>
+                                               </html>
+
+    - Let's try with another valid gene: http://localhost:8000/geneSeq?gene=FRAT2
+        <html>
+                                               <body style="background-color: pink;">
+                                               <font face="Trebuchet MS">The sequence corresponding to gene</font>
+                                               FRAT2
+    <font face="Trebuchet MS">is</font>
+    AGGCGCGTGGCTCGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCTGCTCCGGCTTCGCCCGCAGCTCCGCGCCCGCGGGCAACCAAGCCCCCAGCGAAGCCCGCACAGCTCCGGGTGCCAGGACGGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGACGACAGCTTCCTCCTGCTGCAGCAGTCGGTGACGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGGACAGCCCGGCCTCGCCGTGCGCGCCCCCGGGGGTGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCCGGCCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCTTCGGCTGAGACGGTGGGCCCGGCGCCCTCTGGGGCCCTGCGCTGCGCCCTAGGGGACCGCGGCCGCGTGCGCGGACGCGCTGCGCCCTACTGCGTGGCGGAGGTCGCCGCAGGCCCCAGCGCGCTGCCGGGGCCGTGCCGGCGAGGATGGCTCAGGGACGCGGTCACCTCCCGCCGCTTGCAGCAGCGCCGATGGACCCAAGCCGGGGCACGCGCCGGCGACGACGACCCGCATCGGCTCCTCCAGCAGCTCGTGCTCTCGGGAAACCTCATCAAGGAAGCCGTGCGGAGACTCCAACGAGCCGTCGCCGCGGTTGCAGCCACGGGCCCCGCAAGCGCCCCTGGGCCCGGGGGAGGCCGCAGCGGACCTGACCGCATTGCCCTGCAGCCCTCAGGCTCCTTGCTCTGACGCAGGCCTCCTGGAGGAGGAAGTGGAGGCCGCTGCGTAGACCCAACAGCGTCCAGTTCCTACTAACTCTGAGCTGAAGCCGACGTCGCCAGCCTGGGAGCGACCACTTTGGCTGCGGGGAGGCGCGTGGGGAGAGATCTCAACCAGAGAAGTTACCAGCCGCGGCGAGGCCGTCGGAGAAAACTTAAGCGTGGAGAAATGTATGCGCCAGGGTGCTTCCGTGGGGCATGAGAATTTCCCGGGCCATCCAAGCCCAAGGACCTGGGATAAACTGGGAGAACTATGGCAGCTACTTGCATCGACTTGTACCTCACTTAGCCCTTGGGGGCGTCGTGAGCTTGGATTGTTTAAGGAGGGCTCAGGGGTAGGAATCGCGATGGCTTTATAACAATACTTGAAAACTAACGACACGCATACATTTTCTTATTTTCTGGTGGAGGAGCTTAGTAAGTGGTGCTACAATTGCTGTGCAAAGAAATTCCAGAGGGGAGAAGAATGTAAAAGTTTGGTGGTGGGTGGCTTGGCATTGCCCCTTTTTCCCACCGATTCGGTGGCTGGTGAAGGTGGGAGATGTGAACTCCAATTAAGGGACTGGAGAGAGGTGAAGAATTTTGCAGGTGGGAGATTTGGATTTGAATGTGGACTTGTAAATGACTTGACCTTGCCATCTGTGTTCAAGGTCACGGTTTGCTGTGGGGTTCCTGGGAGAGCTTACTCACCCCGGAGTCTTTTCTTTCTCTTGCTCCAAGAAGAGCCCTGTTGGTGCTTTACCACCGCTTGGAGTCTCCCGAGGACACAAACAGGCAGAGAGGGACGTGTAGGGAGAGTTCTTTCCTGTTTTCTGTGCTTTCCTTTTTACAGGACTCCCGGAAGGCCACTCATGGCCATGCCAGGAGCTTTCTCAGAAACAGTCATAAACGATCTCTTGAGTCTCTTTCTTGTCCTCCCAGCTGAGCTTTCTTATTCCACCCTTTCTGGTGTCTATAGGAATGCATGAGAGACCCTGGACGTTTTTCTGCTCTCTTCTGGCCCTCCATGGAGTCATGGGCCTCGGCCTCGGCGGCTCCTCACCCTCACAATTTATTTCCTCCTCCCGTGCCAGCCCTTCTTTTGTGTCTGAAACCGGTTTTAAAATGTGACTCTCCCAGAGAAGAAGCCGCTGGCTGTATGAAACTTGACGGCGCTTTTGTAAGGTGCCACCCCCAAACTTTAAGGTAGCTAAACCAATTTTTAAAAGATTCAATGGCTTGTTCATCCTCCAGATGTAGCTATTGATGTACACTTCGCAACGGAGTGTCTGAAATTGTGGTGGTCCTGATTTATAGGATTTCATAATTAAAATGTCTGCTGAATAAATTTGGCTTTTGTTTTGGA
+                                               </body>
+                                               </html>
+
+    - Let's try with an invalid gene(combination of letters): http://localhost:8000/geneSeq?gene=LALALLA
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try with another invalid gene(combination of numbers): http://localhost:8000/geneSeq?gene=4213143242
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending the parameters in blank: http://localhost:8000/geneSeq?gene=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending no parameters: http://localhost:8000/geneSeq
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+    Let's try the second endpoint: /geneInfo
+
+    - Let's try sending a valid gene: http://localhost:8000/geneInfo?gene=FRAT1
+        <html>
+                                                               <body style="background-color: pink;">
+                                                               <font face="Trebuchet MS">The information corresponding to gene
+                                                               FRAT1
+        is
+        <li>START: 97319267</li><li>END: 97321915<li>ID: ENSG00000165879<li>LENGTH: 2648<li>CHROMOSOME: 10
+                                                               </font>
+                                                               </body>
+                                                               </html>
+
+    - Let's try sending another valid gene: http://localhost:8000/geneInfo?gene=FRAT2
+        <html>
+                                                               <body style="background-color: pink;">
+                                                               <font face="Trebuchet MS">The information corresponding to gene
+                                                               FRAT2
+        is
+        <li>START: 97332497</li><li>END: 97334709<li>ID: ENSG00000181274<li>LENGTH: 2212<li>CHROMOSOME: 10
+                                                               </font>
+                                                               </body>
+                                                               </html>
+
+    - Let's try with an invalid gene(combination of letters): http://localhost:8000/geneInfo?gene=LALALLA
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try with another invalid gene(combination of numbers): http://localhost:8000/geneInfo?gene=4213143242
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending the parameters in blank: http://localhost:8000/geneInfo?gene=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending no parameters: http://localhost:8000/geneInfo
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+
+
+    Let's try now with the third endpoint: /geneCal
+
+    - Let's try sending a valid gene: http://localhost:8000/geneCal?gene=FRAT1
+        <html>
+                                                                           <body style="background-color: pink;">
+                                                                           <font face="Trebuchet MS">The sequence corresponding to gene
+                                                                           FRAT1
+        is
+        ATTCCGGCTCCCGCGGCTGCAGGCGCGCGGCTAGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCGGCCCCGGTCCAGACTTAGTCTTCAGCTCCGCGCCCGCTCCGCCGCGGCCCACCGCGCCCGCCGGCAGCCGAGCCCCCAGCGACGCCCGCACAGCTCCGGGTGCCCAGACAGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGAGGACAGCTTCCTCCTACTGCAGCAGTCAGTGGCGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGCACAGCCCGGCCTCGCCGTGCGGGCCCCCGGGGGCGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCAGGTCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCGTTGGCGGAGACTGTGGGCCCGGCGCCCCCTGGGGTCCTGCGCTGCGCCCTGGGGGACCGCGGCCGCGTGCGGGGCCGCGCTGCGCCCTACTGCGTGGCCGAGCTCGCCACAGGCCCCAGCGCGCTGTCCCCACTGCCCCCTCAGGCCGACCTTGATGGGCCTCCGGGAGCTGGCAAGCAGGGCATCCCGCAGCCGCTGTCGGGTCCGTGCCGGCGAGGATGGCTCCGGGGCGCCGCCGCCTCCCGCCGCCTGCAGCAGCGACGCGGGTCCCAACCAGAAACCCGCACAGGCGACGACGACCCGCACCGGCTTCTGCAGCAGCTAGTGCTCTCTGGAAACCTCATCAAGGAGGCCGTGCGAAGGCTTCATTCGCGACGGCTGCAGTTACGTGCAAAGCTTCCCCAACGCCCGCTCCTGGGACCTCTGTCGGCCCCGGTGCATGAACCCCCTTCGCCTCGCAGCCCTCGCGCGGCCTGCAGTGACCCTGGCGCCTCCGGGAGGGCGCAGCTCAGAACTGGCGACGGCGTTCTTGTGCCTGGCAGCTAACACGCCCGGGGTGGCCACAGCGCCAGCCTCAGACTGGAGGGCAAGGGGTTCCCTTGAGGGCTGCAGTTCTACTCAGGCTGGTGGAGAACTCTGGCTTTTGGAAGCGAGAGTAAAAAGCTAATGACGAGGAACCGAAAAATCGCGAGTGTTTCGCGGGTAACTGGGGTTGAGGGCCAAAATATTTGGAATGAAGGACTTTGGCCCTATTTAAGGCAGATTTTACAGAGCGCACCTCAAACGTACAAGTCAGTAGGACTCCTTATTTGGCGTGACCCGACCTGGCCGCGGAGCCTGCATTTCCTCGCAGCCTCTCAGTGCCCTCCAGCCCCGCGACCATGTGGCCACAATCCACGCTTCTCCGGATCGCGGTGCGCCGGAACCACGGAGGATGATGCCAGTTACTTGCTTTACCTTTTCAGGGCTGGCTCCTGATCCACTTTGGGGGAGGAGAACATGAGTAGATAATTTCAGGGTGCAGCCCAATCTGCCAGACTTAAAAAAACCATCTTGTGTCTTTGGAGGTGCTGCTTAATACCAAACATGCGGTGCCATGAAGGGACCCTTTGGGGGTTGAATAGGAGTTAACCCCTGCGCTCTCTTTGCAACTGTCTCTCTTCTCAGAGTGGTGGGGGAAGGCTGTACGACACGGGTGGGGAAAGGAGGTGGGGGCGGGGAGTATTGAATGGTGGTGGAAGGGTAGAGAGGCGCGGAGTGAACCCCACGCCCTGTCTAAAGTGTATTTTCAGAGCCGGCCCGCCTCTCCTCGGTTCAAGGTCACTGTTTCCTGGGCACGCACTGGGTTGCGGGACAGAGTAGCCAGGTTCTGCCGGTGCTCGGAGAAGAGCGCAGTGTTTTGCAAGTGCTGGAGTCTCCTGAGGACACGCGCGTCGCCGCCACCGCGGGTGTGGGAAAGCGCGGACGTGCTGGGCGGCTGTGCTTCGGTAGGCGACCACCGCCCCTGGCCGCGCTCCGGGCTTTCACGGAAACTCCCGAGACCGGGCCCTGGGTTCCTCCTCTCCTACTCGGCTCTGCAGTCCTACTCAAGCGGGTGGCTCTGGGATCCTGGGGGCCTGGGTTGGGGGCTAGGGAGACGCCATGTGATGGACACTCCAGGGACACACAGCCTAGCACAGCAGCTTATAATGGGCTCTCCGGGGCCATTTGCAATAACAGCTGCAATTCCCTGGATAGACGAGTTGATTTCCTCCCTCTGCCCCTCCCCCAGCCATGCCAGCTGGCCTTTGTAAGTGCAGGAAACCGAGTAGAAAATGTGACCCTCCAAATGGAGAAGCTGCAGGCTTTGCCATTGTGAACCATGGTGAAGTGCTTGGAACATACTGTTCACTCACTCTAAAGGCGCTGAGACTGTGCTGTTGTTCTCGTTTTTATAGTCAATGGCTTGTTCATCATCCAGATGTGGCTACTGACATATCTACACTTCGCACCGGAGTGTCTGGAATTGTGGCTATCCTGATTATAGGATTTTAACTTAACTGAAATGCCTGCTTTGAATAAATGTGTTGGGTTTTTTGTTTGGTTTTATTTTATACTTGCCATCAGTGAAAAAGATGTACAGAACACATTTCTCTGATCTCCATAAACATGAAAACACTTGAAATCTC
+        and the calculations are:
+        <li>TOTAL LENGTH: 2649<li>PERCENTAGE OF A BASES: 18.0<li>PERCENTAGE OF C BASES: 30.2<li>PERCENTAGE OF T BASES: 19.7<li>PERCENTAGE OF G BASES: 32.0
+                                                                           </font>
+                                                                           </body>
+                                                                           </html
+
+    - Let's try sending another valid gene: http://localhost:8000/geneCal?gene=FRAT2
+        <html>
+                                                                           <body style="background-color: pink;">
+                                                                           <font face="Trebuchet MS">The sequence corresponding to gene
+                                                                           FRAT2
+        is
+        AGGCGCGTGGCTCGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCTGCTCCGGCTTCGCCCGCAGCTCCGCGCCCGCGGGCAACCAAGCCCCCAGCGAAGCCCGCACAGCTCCGGGTGCCAGGACGGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGACGACAGCTTCCTCCTGCTGCAGCAGTCGGTGACGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGGACAGCCCGGCCTCGCCGTGCGCGCCCCCGGGGGTGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCCGGCCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCTTCGGCTGAGACGGTGGGCCCGGCGCCCTCTGGGGCCCTGCGCTGCGCCCTAGGGGACCGCGGCCGCGTGCGCGGACGCGCTGCGCCCTACTGCGTGGCGGAGGTCGCCGCAGGCCCCAGCGCGCTGCCGGGGCCGTGCCGGCGAGGATGGCTCAGGGACGCGGTCACCTCCCGCCGCTTGCAGCAGCGCCGATGGACCCAAGCCGGGGCACGCGCCGGCGACGACGACCCGCATCGGCTCCTCCAGCAGCTCGTGCTCTCGGGAAACCTCATCAAGGAAGCCGTGCGGAGACTCCAACGAGCCGTCGCCGCGGTTGCAGCCACGGGCCCCGCAAGCGCCCCTGGGCCCGGGGGAGGCCGCAGCGGACCTGACCGCATTGCCCTGCAGCCCTCAGGCTCCTTGCTCTGACGCAGGCCTCCTGGAGGAGGAAGTGGAGGCCGCTGCGTAGACCCAACAGCGTCCAGTTCCTACTAACTCTGAGCTGAAGCCGACGTCGCCAGCCTGGGAGCGACCACTTTGGCTGCGGGGAGGCGCGTGGGGAGAGATCTCAACCAGAGAAGTTACCAGCCGCGGCGAGGCCGTCGGAGAAAACTTAAGCGTGGAGAAATGTATGCGCCAGGGTGCTTCCGTGGGGCATGAGAATTTCCCGGGCCATCCAAGCCCAAGGACCTGGGATAAACTGGGAGAACTATGGCAGCTACTTGCATCGACTTGTACCTCACTTAGCCCTTGGGGGCGTCGTGAGCTTGGATTGTTTAAGGAGGGCTCAGGGGTAGGAATCGCGATGGCTTTATAACAATACTTGAAAACTAACGACACGCATACATTTTCTTATTTTCTGGTGGAGGAGCTTAGTAAGTGGTGCTACAATTGCTGTGCAAAGAAATTCCAGAGGGGAGAAGAATGTAAAAGTTTGGTGGTGGGTGGCTTGGCATTGCCCCTTTTTCCCACCGATTCGGTGGCTGGTGAAGGTGGGAGATGTGAACTCCAATTAAGGGACTGGAGAGAGGTGAAGAATTTTGCAGGTGGGAGATTTGGATTTGAATGTGGACTTGTAAATGACTTGACCTTGCCATCTGTGTTCAAGGTCACGGTTTGCTGTGGGGTTCCTGGGAGAGCTTACTCACCCCGGAGTCTTTTCTTTCTCTTGCTCCAAGAAGAGCCCTGTTGGTGCTTTACCACCGCTTGGAGTCTCCCGAGGACACAAACAGGCAGAGAGGGACGTGTAGGGAGAGTTCTTTCCTGTTTTCTGTGCTTTCCTTTTTACAGGACTCCCGGAAGGCCACTCATGGCCATGCCAGGAGCTTTCTCAGAAACAGTCATAAACGATCTCTTGAGTCTCTTTCTTGTCCTCCCAGCTGAGCTTTCTTATTCCACCCTTTCTGGTGTCTATAGGAATGCATGAGAGACCCTGGACGTTTTTCTGCTCTCTTCTGGCCCTCCATGGAGTCATGGGCCTCGGCCTCGGCGGCTCCTCACCCTCACAATTTATTTCCTCCTCCCGTGCCAGCCCTTCTTTTGTGTCTGAAACCGGTTTTAAAATGTGACTCTCCCAGAGAAGAAGCCGCTGGCTGTATGAAACTTGACGGCGCTTTTGTAAGGTGCCACCCCCAAACTTTAAGGTAGCTAAACCAATTTTTAAAAGATTCAATGGCTTGTTCATCCTCCAGATGTAGCTATTGATGTACACTTCGCAACGGAGTGTCTGAAATTGTGGTGGTCCTGATTTATAGGATTTCATAATTAAAATGTCTGCTGAATAAATTTGGCTTTTGTTTTGGA
+        and the calculations are:
+        <li>TOTAL LENGTH: 2213<li>PERCENTAGE OF A BASES: 18.5<li>PERCENTAGE OF C BASES: 28.4<li>PERCENTAGE OF T BASES: 21.3<li>PERCENTAGE OF G BASES: 31.9
+                                                                           </font>
+                                                                           </body>
+                                                                           </html>
+
+    - Let's try with an invalid gene(combination of letters): http://localhost:8000/geneCal?gene=LALALLA
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try with another invalid gene(combination of numbers): http://localhost:8000/geneCal?gene=4213143242
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending the parameters in blank: http://localhost:8000/geneCal?gene=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending no parameters: http://localhost:8000/geneCal
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+
+    Let's try now with the last endpoint for this phase: /geneList
+
+    - Let's try with three valid values for chromosome(number), start and end: http://localhost:8000/geneList?chromo=1&start=0&end=30000
+
+                                        <html>
+                                        <body style= "background-color: pink;">
+                                        <font face="Trebuchet MS">The names of the genes located in chromosome
+        1 from position 0 to position 30000 are: <ul><li>DDX11L1 11869 14409</li><li>WASH7P 14404 29570</li><li>MIR6859-1 17369 17436</li><li>MIR1302-2HG 29554 31109</li></ul></body>
+        </html>
+
+    - Let's try with another three valid values for chromosome(letter), start and end: http://localhost:8000/geneList?chromo=Y&start=0&end=1000000
+        <html>
+                                        <body style= "background-color: pink;">
+                                        <font face="Trebuchet MS">The names of the genes located in chromosome
+        Y from position 0 to position 1000000 are: <ul><li>AL954722.1 253743 255091</li><li>PLCXD1 276322 303356</li><li>GTPBP6 304529 318819</li><li>LINC00685 320990 321851</li><li>PPP2R3B 333963 386955</li><li>AL732314.6 386980 405579</li><li>RF00017 388100 388389</li><li>AL732314.4 419157 421980</li><li>FABP5P13 523775 524102</li><li>KRT18P53 545236 545352</li><li>SHOX 624344 659411</li><li>AL672277.1 990221 994365</li></ul></body>
+        </html>
+
+    - Let's try with three invalid parameters: http://localhost:8000/geneList?chromo=lallaa&start=klfjaz&end=nasfn
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now with a blank chromosome and valid starts and ends: http://localhost:8000/geneList?chromo=&start=0&end=30000
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now with a blank start and valid chromosome and ends: http://localhost:8000/geneList?chromo=1&start=&end=30000
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now with a blank end and valid chromosome and start: http://localhost:8000/geneList?chromo=1&start=0&end=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now sending all the parameters in blank: http://localhost:8000/geneList?chromo=&start=&end=
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now sending no parameters: http://localhost:8000/geneList
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now changing the order of the parameters in the url: http://localhost:8000/geneList?chromo=1&end=30000&start=0
+        <html>
+                                        <body style= "background-color: pink;">
+                                        <font face="Trebuchet MS">The names of the genes located in chromosome
+        1 from position 0 to position 30000 are: <ul><li>DDX11L1 11869 14409</li><li>WASH7P 14404 29570</li><li>MIR6859-1 17369 17436</li><li>MIR1302-2HG 29554 31109</li></ul></body>
+        </html>
+
+    - Let's try now changing in another order the parameters of the url: http://localhost:8000/geneList?end=30000&start=0&chromo=1
+        <html>
+                                        <body style= "background-color: pink;">
+                                        <font face="Trebuchet MS">The names of the genes located in chromosome
+        1 from position 0 to position 30000 are: <ul><li>DDX11L1 11869 14409</li><li>WASH7P 14404 29570</li><li>MIR6859-1 17369 17436</li><li>MIR1302-2HG 29554 31109</li></ul></body>
+        </html>
+
+    - Let's try not introducing one of the parameters in the url: http://localhost:8000/genList?gene=FRAT1&start=0
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+
+
+
+
+
+
+
+
+ADVANCED LEVEL TEST REPORT: We are going to try all the previous tests but asking for a json format.
+
+Let's try the first endpoint: /listSpecies
+
+   - Let's try setting a limit: http://localhost:8000/listSpecies?limit=5&json=1
+        [{"division": "EnsemblVertebrates", "groups": ["rnaseq", "variation", "otherfeatures", "funcgen", "core", "cdna"], "aliases": ["9606", "enshs", "hsap", "homsap", "hsapiens", "human", "homo sapiens", "h_sapiens", "homo"], "display_name": "Human", "release": 96, "accession": "GCA_000001405.27", "strain_collection": null, "strain": null, "taxon_id": "9606", "name": "homo_sapiens", "common_name": "human", "assembly": "GRCh38"}, {"release": 96, "aliases": ["guinea_pig", "domestic guinea pig", "cporcellus", "10141", "cpor", "cavpor", "guinea pig", "cavia porcellus"], "groups": ["core", "rnaseq", "otherfeatures", "funcgen"], "division": "EnsemblVertebrates", "display_name": "Guinea Pig", "strain_collection": null, "strain": null, "accession": "GCA_000151735.1", "taxon_id": "10141", "common_name": "domestic guinea pig", "name": "cavia_porcellus", "assembly": "Cavpor3.0"}, {"assembly": "CBA_J_v1", "common_name": "house mouse", "name": "mus_musculus_cbaj", "taxon_id": "10090", "strain": "CBA/J", "strain_collection": "mouse", "accession": "GCA_001624475.1", "release": 96, "display_name": "Mouse CBA/J", "groups": ["funcgen", "core"], "aliases": [], "division": "EnsemblVertebrates"}, {"aliases": [], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Midas cichlid", "release": 96, "accession": "GCA_000751415.1", "strain_collection": null, "strain": null, "taxon_id": "61819", "name": "amphilophus_citrinellus", "common_name": "Midas cichlid", "assembly": "Midas_v5"}, {"strain_collection": null, "strain": null, "accession": "GCA_000090745.1", "release": 96, "aliases": ["anolis carolinensis", "acarolinensis", "anolis", "28377", "green anole", "anolis_lizard", "acar", "anoliscarolinensis", "anole lizard", "green anole lizard", "anocar"], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "rnaseq", "core"], "display_name": "Anole lizard", "name": "anolis_carolinensis", "common_name": "green anole", "assembly": "AnoCar2.0", "taxon_id": "28377"}]
+
+
+   - Let's try now setting no limit: http://localhost:8000/listSpecies?limit=&json=1
+        [{"taxon_id": "9606", "assembly": "GRCh38", "name": "homo_sapiens", "common_name": "human", "display_name": "Human", "division": "EnsemblVertebrates", "groups": ["rnaseq", "variation", "otherfeatures", "funcgen", "core", "cdna"], "aliases": ["9606", "enshs", "hsap", "homsap", "hsapiens", "human", "homo sapiens", "h_sapiens", "homo"], "release": 96, "accession": "GCA_000001405.27", "strain": null, "strain_collection": null}, {"common_name": "domestic guinea pig", "name": "cavia_porcellus", "assembly": "Cavpor3.0", "taxon_id": "10141", "accession": "GCA_000151735.1", "strain_collection": null, "strain": null, "aliases": ["guinea_pig", "domestic guinea pig", "cporcellus", "10141", "cpor", "cavpor", "guinea pig", "cavia porcellus"], "groups": ["core", "rnaseq", "otherfeatures", "funcgen"], "division": "EnsemblVertebrates", "display_name": "Guinea Pig", "release": 96}, {"assembly": "CBA_J_v1", "common_name": "house mouse", "name": "mus_musculus_cbaj", "taxon_id": "10090", "strain": "CBA/J", "strain_collection": "mouse", "accession": "GCA_001624475.1", "release": 96, "display_name": "Mouse CBA/J", "groups": ["funcgen", "core"], "aliases": [], "division": "EnsemblVertebrates"}, {"strain_collection": null, "strain": null, "accession": "GCA_000751415.1", "release": 96, "aliases": [], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Midas cichlid", "name": "amphilophus_citrinellus", "common_name": "Midas cichlid", "assembly": "Midas_v5", "taxon_id": "61819"}, {"strain_collection": null, "strain": null, "accession": "GCA_000090745.1", "release": 96, "aliases": ["anolis carolinensis", "acarolinensis", "anolis", "28377", "green anole", "anolis_lizard", "acar", "anoliscarolinensis", "anole lizard", "green anole lizard", "anocar"], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "rnaseq", "core"], "display_name": "Anole lizard", "name": "anolis_carolinensis", "common_name": "green anole", "assembly": "AnoCar2.0", "taxon_id": "28377"}, {"release": 96, "division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "funcgen", "otherfeatures", "rnaseq"], "display_name": "Capuchin", "strain_collection": null, "strain": null, "accession": "GCA_001604975.1", "taxon_id": "1737458", "common_name": "White-headed capuchin", "name": "cebus_capucinus", "assembly": "Cebus_imitator-1.0"}, {"name": "labrus_bergylta", "common_name": "ballan wrasse", "assembly": "BallGen_V1", "taxon_id": "56723", "strain_collection": null, "strain": null, "accession": "GCA_900080235.1", "release": 96, "division": "EnsemblVertebrates", "groups": ["core", "rnaseq", "otherfeatures"], "aliases": [], "display_name": "Ballan wrasse"}, {"aliases": ["leopard"], "groups": ["core", "otherfeatures"], "division": "EnsemblVertebrates", "display_name": "Leopard", "release": 96, "accession": "GCA_001857705.1", "strain_collection": null, "strain": null, "taxon_id": "9691", "name": "panthera_pardus", "common_name": "leopard", "assembly": "PanPar1.0"}, {"strain": null, "strain_collection": null, "accession": "GCA_000180615.2", "release": 96, "display_name": "Fugu", "aliases": ["takifugu rubripes", "t_rubripes", "fugu", "31033", "trubripes", "trub", "takifugu", "takrub", "torafugu"], "groups": ["rnaseq", "otherfeatures", "core"], "division": "EnsemblVertebrates", "assembly": "FUGU5", "common_name": "torafugu", "name": "takifugu_rubripes", "taxon_id": "31033"}, {"taxon_id": "61621", "name": "rhinopithecus_bieti", "common_name": "Black snub-nosed monkey", "assembly": "ASM169854v1", "release": 96, "aliases": [], "groups": ["funcgen", "otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "display_name": "Black snub-nosed monkey", "strain_collection": null, "strain": null, "accession": "GCA_001698545.1"}, {"name": "mastacembelus_armatus", "common_name": "zig-zag eel", "assembly": "fMasArm1.1", "taxon_id": "205130", "strain_collection": null, "strain": null, "accession": "GCA_900324485.1", "release": 96, "aliases": [], "groups": ["core", "rnaseq"], "division": "EnsemblVertebrates", "display_name": "Zig-zag eel"}, {"release": 96, "display_name": "Blue-crowned manakin", "aliases": [], "groups": ["otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_001604755.1", "taxon_id": "321398", "assembly": "Lepidothrix_coronata-1.0", "name": "lepidothrix_coronata", "common_name": "blue-crowned manakin"}, {"release": 96, "division": "EnsemblVertebrates", "groups": ["core", "rnaseq", "otherfeatures"], "aliases": ["damara mole rat", "fukomys damarensi", "fdamarensi", "fukdam", "fdam", "885580", "fukomys_damarensi"], "display_name": "Damara mole rat", "strain_collection": null, "strain": null, "accession": "GCA_000743615.1", "taxon_id": "885580", "name": "fukomys_damarensis", "common_name": "Damara mole rat", "assembly": "DMR_v1.0"}, {"taxon_id": "13616", "common_name": "gray short-tailed opossum", "name": "monodelphis_domestica", "assembly": "monDom5", "groups": ["rnaseq", "variation", "core"], "aliases": ["mdom", "gray short-tailed opossum", "mdomestica", "13616", "monodelphis domestica", "mondom", "opossum", "broado5"], "division": "EnsemblVertebrates", "display_name": "Opossum", "release": 96, "accession": "GCF_000002295.2", "strain_collection": null, "strain": null}, {"assembly": "ASM303372v1", "name": "equus_asinus_asinus", "common_name": "donkey", "taxon_id": "83772", "strain": null, "strain_collection": null, "accession": "GCA_003033725.1", "release": 96, "display_name": "Donkey", "aliases": ["ass", "donkey"], "division": "EnsemblVertebrates", "groups": ["rnaseq", "core"]}, {"taxon_id": "8083", "assembly": "X_maculatus-5.0-male", "common_name": "southern platyfish", "name": "xiphophorus_maculatus", "release": 96, "display_name": "Platyfish", "division": "EnsemblVertebrates", "groups": ["rnaseq", "otherfeatures", "core"], "aliases": ["8083", "xiphophorus maculatus", "platyfish", "xmac", "southern platyfish", "xmaculatus", "xipmac"], "strain": null, "strain_collection": null, "accession": "GCA_002775205.2"}, {"common_name": "little spotted kiwi", "name": "apteryx_owenii", "assembly": "aptOwe1", "taxon_id": "8824", "accession": "GCA_003342965.1", "strain_collection": null, "strain": null, "aliases": [], "division": "EnsemblVertebrates", "groups": ["core", "rnaseq"], "display_name": "Little spotted kiwi", "release": 96}, {"name": "calidris_pugnax", "common_name": "ruff", "assembly": "ASM143184v1", "taxon_id": "198806", "accession": "GCA_001431845.1", "strain_collection": null, "strain": null, "division": "EnsemblVertebrates", "groups": ["core", "rnaseq", "otherfeatures"], "aliases": [], "display_name": "Ruff", "release": 96}, {"strain": null, "strain_collection": null, "accession": null, "release": 96, "display_name": "Stickleback", "division": "EnsemblVertebrates", "aliases": ["gaculeatus", "three spined stickleback", "gasacu", "gasterosteus aculeatus", "stickleback", "69293", "three-spined stickleback", "gacu"], "groups": ["core", "otherfeatures"], "assembly": "BROADS1", "common_name": "three-spined stickleback", "name": "gasterosteus_aculeatus", "taxon_id": "69293"}, {"taxon_id": "10029", "assembly": "CriGri-PICR", "name": "cricetulus_griseus_picr", "common_name": "Chinese hamster", "display_name": "Chinese hamster PICR", "aliases": [], "groups": ["funcgen", "rnaseq", "core"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_003668045.1", "strain": null, "strain_collection": null}, {"strain": null, "strain_collection": null, "accession": "GCA_003336285.1", "release": 96, "display_name": "Steppe mouse", "aliases": [], "groups": ["rnaseq", "core"], "division": "EnsemblVertebrates", "assembly": "MUSP714", "common_name": "steppe mouse", "name": "mus_spicilegus", "taxon_id": "10103"}, {"division": "EnsemblVertebrates", "groups": ["core", "rnaseq"], "aliases": [], "display_name": "Indian medaka", "release": 96, "accession": "GCA_002922805.1", "strain_collection": null, "strain": null, "taxon_id": "30732", "common_name": "Indian medaka", "name": "oryzias_melastigma", "assembly": "Om_v0.7.RACA"}, {"name": "nannospalax_galili", "common_name": "Upper Galilee mountains blind mole rat", "assembly": "S.galili_v1.0", "taxon_id": "1026970", "accession": "GCA_000622305.1", "strain_collection": null, "strain": null, "division": "EnsemblVertebrates", "aliases": ["nannospalax galili", "1026970", "nangal", "upper galilee mountains blind mole rat", "ngal", "ngalili"], "groups": ["funcgen", "otherfeatures", "rnaseq", "core"], "display_name": "Upper Galilee mountains blind mole rat", "release": 96}, {"strain_collection": null, "strain": null, "accession": "GCA_003597395.1", "release": 96, "aliases": [], "division": "EnsemblVertebrates", "groups": ["core", "rnaseq"], "display_name": "Abingdon island giant tortoise", "common_name": "Abingdon island giant tortoise", "name": "chelonoidis_abingdonii", "assembly": "ASM359739v1", "taxon_id": "106734"}, {"common_name": "spiny chromis", "name": "acanthochromis_polyacanthus", "assembly": "ASM210954v1", "taxon_id": "80966", "accession": "GCA_002109545.1", "strain_collection": null, "strain": null, "division": "EnsemblVertebrates", "groups": ["core", "rnaseq", "otherfeatures"], "aliases": [], "display_name": "Spiny chromis", "release": 96}, {"strain": null, "strain_collection": null, "accession": "GCA_001624265.1", "release": 96, "display_name": "Asian bonytongue", "groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "aliases": [], "assembly": "ASM162426v1", "common_name": "Asian bonytongue", "name": "scleropages_formosus", "taxon_id": "113540"}, {"display_name": "Tasmanian devil", "division": "EnsemblVertebrates", "groups": ["otherfeatures", "core"], "aliases": ["sarhar", "sarcophilus harrisii", "tasmanian_devil", "9305", "devil", "shar", "tasmanian devil", "tdevil", "sharrisii"], "release": 96, "accession": "GCA_000189315.1", "strain": null, "strain_collection": null, "taxon_id": "9305", "assembly": "DEVIL7.0", "name": "sarcophilus_harrisii", "common_name": "Tasmanian devil"}, {"accession": "GCA_000002315.5", "strain": null, "strain_collection": null, "display_name": "Chicken", "groups": ["otherfeatures", "funcgen", "variation", "rnaseq", "core"], "aliases": ["galgal", "9031", "g_gallus", "ggallus", "chicken", "gallus gallus", "ggal"], "division": "EnsemblVertebrates", "release": 96, "assembly": "GRCg6a", "name": "gallus_gallus", "common_name": "chicken", "taxon_id": "9031"}, {"display_name": "Coelacanth", "aliases": ["coelacanth", "7897", "latimeria chalumnae", "living fossil", "latcha", "lchalumnae", "lamineria", "lcha"], "groups": ["core", "otherfeatures"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_000225785.1", "strain": null, "strain_collection": null, "taxon_id": "7897", "assembly": "LatCha1", "name": "latimeria_chalumnae", "common_name": "coelacanth"}, {"strain": null, "strain_collection": null, "accession": "GCA_002078875.2", "release": 96, "display_name": "Helmeted guineafowl", "aliases": [], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "rnaseq", "core"], "assembly": "NumMel1.0", "common_name": "helmeted guineafowl", "name": "numida_meleagris", "taxon_id": "8996"}, {"taxon_id": "10090", "common_name": "house mouse", "name": "mus_musculus_aj", "assembly": "A_J_v1", "release": 96, "groups": ["funcgen", "core"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Mouse A/J", "strain_collection": "mouse", "strain": "A/J", "accession": "GCA_001624215.1"}, {"taxon_id": "48699", "common_name": "sailfin molly", "name": "poecilia_latipinna", "assembly": "P_latipinna-1.0", "aliases": [], "groups": ["rnaseq", "otherfeatures", "core"], "division": "EnsemblVertebrates", "display_name": "Sailfin molly", "release": 96, "accession": "GCA_001443285.1", "strain_collection": null, "strain": null}, {"strain_collection": null, "strain": null, "accession": "GCA_002099425.1", "release": 96, "aliases": [], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Koala", "common_name": "koala", "name": "phascolarctos_cinereus", "assembly": "phaCin_unsw_v4.1", "taxon_id": "38626"}, {"release": 96, "display_name": "Mouse FVB/NJ", "groups": ["core", "funcgen"], "aliases": [], "division": "EnsemblVertebrates", "strain": "FVB/NJ", "strain_collection": "mouse", "accession": "GCA_001624535.1", "taxon_id": "10090", "assembly": "FVB_NJ_v1", "common_name": "house mouse", "name": "mus_musculus_fvbnj"}, {"display_name": "Chinese hamster CHOK1GS", "aliases": ["crigri", "cgriseus_chok1gshd", "cricetulus griseus chok1gshd", "chinese hamster chok1gs", "cgri"], "division": "EnsemblVertebrates", "groups": ["funcgen", "otherfeatures", "rnaseq", "core"], "release": 96, "accession": "GCA_900186095.1", "strain": null, "strain_collection": null, "taxon_id": "10029", "assembly": "CHOK1GS_HDv1", "name": "cricetulus_griseus_chok1gshd", "common_name": "Chinese hamster"}, {"release": 96, "groups": ["core", "funcgen"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Mouse LP/J", "strain_collection": "mouse", "strain": "LP/J", "accession": "GCA_001632615.1", "taxon_id": "10090", "common_name": "house mouse", "name": "mus_musculus_lpj", "assembly": "LP_J_v1"}, {"strain": null, "strain_collection": null, "accession": "GCA_000247695.1", "release": 96, "display_name": "Naked mole-rat female", "aliases": ["hglaber_female", "naked mole-rat female", "heterocephalus glaber female"], "groups": ["core", "otherfeatures", "rnaseq"], "division": "EnsemblVertebrates", "assembly": "HetGla_female_1.0", "common_name": "naked mole-rat", "name": "heterocephalus_glaber_female", "taxon_id": "10181"}, {"common_name": "Spoon-billed sandpiper", "name": "calidris_pygmaea", "assembly": "ASM369795v1", "taxon_id": "425635", "accession": "GCA_003697955.1", "strain_collection": null, "strain": null, "aliases": [], "division": "EnsemblVertebrates", "groups": ["rnaseq", "core"], "display_name": "Spoon-billed sandpiper", "release": 96}, {"common_name": "common mallard", "name": "anas_platyrhynchos_platyrhynchos", "assembly": "CAU_duck1.0", "taxon_id": "8840", "accession": "GCA_002743455.1", "strain_collection": null, "strain": null, "groups": ["core", "rnaseq", "funcgen"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Duck", "release": 96}, {"accession": "GCA_000235385.1", "strain_collection": null, "strain": null, "division": "EnsemblVertebrates", "aliases": [], "groups": ["rnaseq", "otherfeatures", "funcgen", "core"], "display_name": "Bolivian squirrel monkey", "release": 96, "name": "saimiri_boliviensis_boliviensis", "common_name": "Bolivian squirrel monkey", "assembly": "SaiBol1.0", "taxon_id": "39432"}, {"taxon_id": "299123", "common_name": "Bengalese finch", "name": "lonchura_striata_domestica", "assembly": "LonStrDom1", "aliases": [], "division": "EnsemblVertebrates", "groups": ["core", "rnaseq", "otherfeatures"], "display_name": "Bengalese finch", "release": 96, "accession": "GCA_002197715.1", "strain_collection": null, "strain": null}, {"accession": "GCA_002754865.1", "strain": null, "strain_collection": null, "display_name": "Marmoset", "division": "EnsemblVertebrates", "groups": ["core", "rnaseq", "funcgen"], "aliases": ["callithrix jacchus", "caljac", "cj321", "cjacchus321", "white-tufted-ear marmoset", "cjac", "cjacchus", "9483", "marmoset"], "release": 96, "assembly": "ASM275486v1", "name": "callithrix_jacchus", "common_name": "white-tufted-ear marmoset", "taxon_id": "9483"}, {"strain_collection": null, "strain": null, "accession": "GCA_000298735.1", "release": 96, "division": "EnsemblVertebrates", "groups": ["core", "otherfeatures", "rnaseq", "variation"], "aliases": ["sheep", "oaries", "oar", "oviari", "9940", "ovis aries", "ovisaries", "domestic sheep", "oari"], "display_name": "Sheep", "common_name": "Domestic sheep", "name": "ovis_aries", "assembly": "Oar_v3.1", "taxon_id": "9940"}, {"taxon_id": "9555", "name": "papio_anubis", "common_name": "Olive baboon", "assembly": "Panu_3.0", "release": 96, "aliases": ["papio cynocephalus anubis", "papio anubis", "papio hamadryas doguera", "anubis baboon", "papio hamadryas anubis", "olive baboon", "kenya baboon", "papio doguera", "panubis", "papanu", "9555", "panu", "doguera baboon"], "groups": ["rnaseq", "otherfeatures", "funcgen", "core"], "division": "EnsemblVertebrates", "display_name": "Olive baboon", "strain_collection": null, "strain": null, "accession": "GCA_000264685.2"}, {"division": "EnsemblVertebrates", "groups": ["core", "otherfeatures", "funcgen", "rnaseq"], "aliases": [], "display_name": "Crab-eating macaque", "release": 96, "accession": "GCA_000364345.1", "strain_collection": null, "strain": null, "taxon_id": "9541", "common_name": "Crab-eating macaque", "name": "macaca_fascicularis", "assembly": "Macaca_fascicularis_5.0"}, {"release": 96, "display_name": "Mainland tiger snake", "aliases": [], "division": "EnsemblVertebrates", "groups": ["rnaseq", "otherfeatures", "core"], "strain": null, "strain_collection": null, "accession": "GCA_900518725.1", "taxon_id": "8663", "assembly": "TS10Xv2-PRI", "name": "notechis_scutatus", "common_name": "mainland tiger snake"}, {"taxon_id": "9925", "common_name": "Goat", "name": "capra_hircus", "assembly": "ARS1", "aliases": [], "groups": ["core", "variation", "rnaseq", "otherfeatures", "funcgen"], "division": "EnsemblVertebrates", "display_name": "Goat", "release": 96, "accession": "GCA_001704415.1", "strain_collection": null, "strain": null}, {"strain": null, "strain_collection": null, "accession": "GCA_000826765.1", "release": 96, "display_name": "Mummichog", "aliases": [], "groups": ["core", "rnaseq", "otherfeatures", "funcgen"], "division": "EnsemblVertebrates", "assembly": "Fundulus_heteroclitus-3.0.2", "name": "fundulus_heteroclitus", "common_name": "mummichog", "taxon_id": "8078"}, {"assembly": "ASM334442v1", "name": "ursus_americanus", "common_name": "American black bear", "taxon_id": "9643", "accession": "GCA_003344425.1", "strain": null, "strain_collection": null, "display_name": "American black bear", "aliases": [], "groups": ["rnaseq", "core"], "division": "EnsemblVertebrates", "release": 96}, {"release": 96, "display_name": "Mouse NZO/HlLtJ", "groups": ["funcgen", "core"], "aliases": [], "division": "EnsemblVertebrates", "strain": "NZO/HlLtJ", "strain_collection": "mouse", "accession": "GCA_001624745.1", "taxon_id": "10090", "assembly": "NZO_HlLtJ_v1", "name": "mus_musculus_nzohlltj", "common_name": "house mouse"}, {"strain_collection": null, "strain": null, "accession": "GCA_000004035.1", "release": 96, "aliases": ["macropus_eugenii", "wallaby", "macropus", "9315", "notamacropus eugenii", "macropus eugenii", "noteug", "notamacropuseugenii", "maceug", "macropuseugenii", "neug", "meugenii", "meug", "tammar wallaby", "notamacropus", "neugenii"], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Wallaby", "name": "notamacropus_eugenii", "common_name": "tammar wallaby", "assembly": "Meug_1.0", "taxon_id": "9315"}, {"display_name": "Dolphin", "division": "EnsemblVertebrates", "groups": ["core"], "aliases": ["ttruncatus", "dolphin", "9739", "ttru", "tursiops truncatus", "bottlenose dolphin", "tursiopstruncatus", "bottlenosed dolphin", "turtru"], "release": 96, "accession": null, "strain": null, "strain_collection": null, "taxon_id": "9739", "assembly": "turTru1", "name": "tursiops_truncatus", "common_name": "bottlenosed dolphin"}, {"name": "gambusia_affinis", "common_name": "western mosquitofish", "assembly": "ASM309773v1", "taxon_id": "33528", "strain_collection": null, "strain": null, "accession": "GCA_003097735.1", "release": 96, "groups": ["core", "rnaseq"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Western mosquitofish"}, {"release": 96, "aliases": ["fcat", "felcat", "domestic cat", "cat", "fcatus", "9685", "felis catus"], "groups": ["rnaseq", "variation", "otherfeatures", "funcgen", "core"], "division": "EnsemblVertebrates", "display_name": "Cat", "strain_collection": null, "strain": null, "accession": "GCA_000181335.4", "taxon_id": "9685", "common_name": "domestic cat", "name": "felis_catus", "assembly": "Felis_catus_9.0"}, {"strain": null, "strain_collection": null, "accession": "GCA_000258655.2", "release": 96, "display_name": "Bonobo", "aliases": [], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "funcgen", "rnaseq", "core"], "assembly": "panpan1.1", "common_name": "bonobo", "name": "pan_paniscus", "taxon_id": "9597"}, {"display_name": "Gibbon", "division": "EnsemblVertebrates", "aliases": ["nleu", "nleucogenys", "nomascus leucogenys", "northern white-cheeked gibbon", "nomleu", "61853", "gibbon"], "groups": ["variation", "otherfeatures", "funcgen", "core"], "release": 96, "accession": "GCA_000146795.3", "strain": null, "strain_collection": null, "taxon_id": "61853", "assembly": "Nleu_3.0", "name": "nomascus_leucogenys", "common_name": "Northern white-cheeked gibbon"}, {"taxon_id": "60711", "common_name": "African green monkey", "name": "chlorocebus_sabaeus", "assembly": "ChlSab1.1", "release": 96, "groups": ["core", "otherfeatures", "variation", "rnaseq"], "aliases": ["csab", "csabaeus", "chlsab", "african green monkey", "vervet-agm", "chlorocebus_sabeus", "60711", "agm", "vervet monkey", "chlorocebus sabaeus", "chlorocebus sabeus"], "division": "EnsemblVertebrates", "display_name": "Vervet-AGM", "strain_collection": null, "strain": null, "accession": "GCA_000409795.2"}, {"accession": "GCA_002263795.2", "strain": null, "strain_collection": null, "display_name": "Cow", "aliases": ["bovine", "bostau", "domestic cow", "btau", "domestic cattle", "9913", "cow", "btaurus", "bos taurus", "cattle"], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "funcgen", "variation", "rnaseq", "core"], "release": 96, "assembly": "ARS-UCD1.2", "name": "bos_taurus", "common_name": "cattle", "taxon_id": "9913"}, {"assembly": "AmpOce1.0", "common_name": "clown anemonefish", "name": "amphiprion_ocellaris", "taxon_id": "80972", "strain": null, "strain_collection": null, "accession": "GCA_002776465.1", "release": 96, "display_name": "Clown anemonefish", "groups": ["rnaseq", "otherfeatures", "core"], "aliases": [], "division": "EnsemblVertebrates"}, {"aliases": ["mus pahari", "muspah", "mpah", "shrew mouse", "mpahari", "10093"], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Shrew mouse", "release": 96, "accession": "GCA_900095145.2", "strain_collection": null, "strain": "PAHARI_EIJ", "taxon_id": "10093", "name": "mus_pahari", "common_name": "Shrew mouse", "assembly": "PAHARI_EIJ_v1.1"}, {"release": 96, "division": "EnsemblVertebrates", "groups": ["core", "rnaseq", "otherfeatures"], "aliases": [], "display_name": "Japanese quail", "strain_collection": null, "strain": null, "accession": "GCA_001577835.1", "taxon_id": "93934", "name": "coturnix_japonica", "common_name": "Japanese quail", "assembly": "Coturnix_japonica_2.0"}, {"taxon_id": "1868482", "assembly": "Tarsius_syrichta-2.0.1", "name": "carlito_syrichta", "common_name": "Philippine tarsier", "display_name": "Tarsier", "division": "EnsemblVertebrates", "groups": ["otherfeatures", "funcgen", "core"], "aliases": ["tarsiussyrichta", "carsyr", "carlitosyrichta", "tarsius syrichta", "csyr", "tarsyr", "csyrichta", "tsyr", "tsyrichta", "tarsier", "philippine tarsier", "carlito", "tarsius_syrichta", "9478", "carlito syrichta"], "release": 96, "accession": "GCA_000164805.2", "strain": null, "strain_collection": null}, {"taxon_id": "8823", "name": "apteryx_haastii", "common_name": "Great spotted kiwi", "assembly": "aptHaa1", "division": "EnsemblVertebrates", "aliases": [], "groups": ["rnaseq", "core"], "display_name": "Great spotted kiwi", "release": 96, "accession": "GCA_003342985.1", "strain_collection": null, "strain": null}, {"common_name": "Pig-tailed macaque", "name": "macaca_nemestrina", "assembly": "Mnem_1.0", "taxon_id": "9545", "accession": "GCA_000956065.1", "strain_collection": null, "strain": null, "groups": ["rnaseq", "otherfeatures", "funcgen", "core"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Pig-tailed macaque", "release": 96}, {"release": 96, "display_name": "Tuatara", "division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "otherfeatures", "rnaseq"], "strain": null, "strain_collection": null, "accession": "GCA_003113815.1", "taxon_id": "8508", "assembly": "ASM311381v1", "name": "sphenodon_punctatus", "common_name": "tuatara"}, {"accession": "GCA_002592135.1", "strain": null, "strain_collection": null, "display_name": "Pink-footed goose", "division": "EnsemblVertebrates", "groups": ["core"], "aliases": [], "release": 96, "assembly": "ASM259213v1", "common_name": "pink-footed goose", "name": "anser_brachyrhynchus", "taxon_id": "132585"}, {"strain_collection": null, "strain": null, "accession": "GCA_900324465.1", "release": 96, "groups": ["rnaseq", "core"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Climbing perch", "name": "anabas_testudineus", "common_name": "climbing perch", "assembly": "fAnaTes1.1", "taxon_id": "64144"}, {"release": 96, "display_name": "Spotted gar", "groups": ["rnaseq", "otherfeatures", "core"], "aliases": ["locu", "spotted gar", "lepocu", "7918", "loculatus", "lepisosteus oculatus"], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_000242695.1", "taxon_id": "7918", "assembly": "LepOcu1", "name": "lepisosteus_oculatus", "common_name": "Spotted gar"}, {"taxon_id": "61622", "common_name": "Golden snub-nosed monkey", "name": "rhinopithecus_roxellana", "assembly": "Rrox_v1", "release": 96, "groups": ["funcgen", "otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "aliases": [], "display_name": "Golden snub-nosed monkey", "strain_collection": null, "strain": null, "accession": "GCA_000769185.1"}, {"strain_collection": null, "strain": null, "accession": "GCA_002406435.1", "release": 96, "division": "EnsemblVertebrates", "aliases": [], "groups": ["core"], "display_name": "Daurian ground squirrel", "common_name": "Daurian ground squirrel", "name": "spermophilus_dauricus", "assembly": "ASM240643v1", "taxon_id": "99837"}, {"assembly": "PoeFor_5.1.2", "name": "poecilia_formosa", "common_name": "Amazon molly", "taxon_id": "48698", "accession": "GCA_000485575.1", "strain": null, "strain_collection": null, "display_name": "Amazon molly", "aliases": ["pfor", "poefor", "48698", "pformosa", "amazon molly", "poecilia formosa"], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "rnaseq", "core"], "release": 96}, {"taxon_id": "52904", "common_name": "turbot", "name": "scophthalmus_maximus", "assembly": "ASM318616v1", "release": 96, "aliases": [], "division": "EnsemblVertebrates", "groups": ["rnaseq", "funcgen", "core"], "display_name": "Turbot", "strain_collection": null, "strain": null, "accession": "GCA_003186165.1"}, {"assembly": "SPRET_EiJ_v1", "common_name": "algerian mouse", "name": "mus_spretus", "taxon_id": "10096", "accession": "GCA_001624865.1", "strain": "SPRET/EiJ", "strain_collection": null, "display_name": "Algerian mouse", "groups": ["funcgen", "core"], "division": "EnsemblVertebrates", "aliases": ["mus_spretus_spret_eij", "mspretus", "spreteij", "western mediterranean mouse"], "release": 96}, {"division": "EnsemblVertebrates", "groups": ["core", "otherfeatures"], "aliases": ["sea lamprey", "pmarinus", "lamprey", "pmar", "petmar", "petromyzon marinus", "7757"], "display_name": "Lamprey", "release": 96, "accession": null, "strain_collection": null, "strain": null, "taxon_id": "7757", "name": "petromyzon_marinus", "common_name": "sea lamprey", "assembly": "Pmarinus_7.0"}, {"accession": "GCA_000004195.1", "strain_collection": null, "strain": null, "groups": ["funcgen", "otherfeatures", "core"], "aliases": ["xtropicalis", "xtro", "xentro", "western clawed frog", "x.tropicalis", "xenopus", "8364", "xenopus tropicalis"], "division": "EnsemblVertebrates", "display_name": "Xenopus", "release": 96, "name": "xenopus_tropicalis", "common_name": "western clawed frog", "assembly": "JGI_4.2", "taxon_id": "8364"}, {"name": "gopherus_agassizii", "common_name": "Agassiz's desert tortoise", "assembly": "ASM289641v1", "taxon_id": "38772", "accession": "GCA_002896415.1", "strain_collection": null, "strain": null, "groups": ["core", "rnaseq"], "division": "EnsemblVertebrates", "aliases": [], "display_name": "Agassiz's desert tortoise", "release": 96}, {"name": "bison_bison_bison", "common_name": "American bison", "assembly": "Bison_UMD1.0", "taxon_id": "43346", "accession": "GCA_000754665.1", "strain_collection": null, "strain": null, "groups": ["otherfeatures", "core"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "American bison", "release": 96}, {"strain_collection": "mouse", "strain": "129S1/SvImJ", "accession": "GCA_001624185.1", "release": 96, "division": "EnsemblVertebrates", "aliases": [], "groups": ["funcgen", "core"], "display_name": "Mouse 129S1/SvImJ", "common_name": "house mouse", "name": "mus_musculus_129s1svimj", "assembly": "129S1_SvImJ_v1", "taxon_id": "10090"}, {"assembly": "IpCoco_1.2", "common_name": "channel catfish", "name": "ictalurus_punctatus", "taxon_id": "7998", "accession": "GCA_001660625.1", "strain": null, "strain_collection": null, "display_name": "Channel catfish", "division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "rnaseq", "funcgen", "otherfeatures"], "release": 96}, {"common_name": "Degu", "name": "octodon_degus", "assembly": "OctDeg1.0", "taxon_id": "10160", "accession": "GCA_000260255.1", "strain_collection": null, "strain": null, "groups": ["otherfeatures", "core"], "aliases": ["octdeg", "octodon degus", "odeg", "odegus", "10160", "degu"], "division": "EnsemblVertebrates", "display_name": "Degu", "release": 96}, {"release": 96, "display_name": "Angola colobus", "groups": ["otherfeatures", "funcgen", "core"], "aliases": [], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_000951035.1", "taxon_id": "336983", "assembly": "Cang.pa_1.0", "common_name": "Angola colobus", "name": "colobus_angolensis_palliatus"}, {"taxon_id": "328815", "assembly": "ASM171598v2", "common_name": "golden-collared manakin", "name": "manacus_vitellinus", "display_name": "Golden-collared manakin", "aliases": [], "groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_001715985.2", "strain": null, "strain_collection": null}, {"common_name": "eastern happy", "name": "astatotilapia_calliptera", "assembly": "fAstCal1.2", "taxon_id": "8154", "strain_collection": null, "strain": null, "accession": "GCA_900246225.3", "release": 96, "groups": ["core", "rnaseq"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Eastern happy"}, {"taxon_id": "1328070", "assembly": "Prosim_1.0", "name": "prolemur_simus", "common_name": "greater bamboo lemur", "display_name": "Greater bamboo lemur", "groups": ["funcgen", "core"], "aliases": [], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_003258685.1", "strain": null, "strain_collection": null}, {"aliases": ["10092", "mmusculus_domesticus_wsbeij", "mus musculus domesticus wsbeij", "western european house mouse", "mouse wsbeij", "mus_musculus_domesticus_wsbeij"], "groups": ["funcgen", "core"], "division": "EnsemblVertebrates", "display_name": "Mouse WSB/EiJ", "release": 96, "accession": "GCA_001624835.1", "strain_collection": "mouse", "strain": "WSB/EiJ", "taxon_id": "10092", "common_name": "western european house mouse", "name": "mus_musculus_wsbeij", "assembly": "WSB_EiJ_v1"}, {"taxon_id": "9361", "assembly": "Dasnov3.0", "name": "dasypus_novemcinctus", "common_name": "nine-banded armadillo", "display_name": "Armadillo", "aliases": ["dasypus novemcinctus", "dasnov", "dnov", "armadillo", "9361", "arma", "dasypus novemcinctu", "nine-banded armadillo", "dnovemcinctus"], "groups": ["rnaseq", "otherfeatures", "core"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_000208655.2", "strain": null, "strain_collection": null}, {"display_name": "Mangrove rivulus", "aliases": [], "groups": ["core", "otherfeatures", "rnaseq"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_001649575.1", "strain": null, "strain_collection": null, "taxon_id": "37003", "assembly": "ASM164957v1", "name": "kryptolebias_marmoratus", "common_name": "mangrove rivulus"}, {"assembly": "DBA_2J_v1", "name": "mus_musculus_dba2j", "common_name": "house mouse", "taxon_id": "10090", "strain": "DBA/2J", "strain_collection": "mouse", "accession": "GCA_001624505.1", "release": 96, "display_name": "Mouse DBA/2J", "aliases": [], "groups": ["core", "funcgen"], "division": "EnsemblVertebrates"}, {"accession": "GCA_003426925.1", "strain": null, "strain_collection": null, "display_name": "Arctic ground squirrel", "aliases": [], "division": "EnsemblVertebrates", "groups": ["rnaseq", "core"], "release": 96, "assembly": "ASM342692v1", "name": "urocitellus_parryii", "common_name": "Arctic ground squirrel", "taxon_id": "9999"}, {"release": 96, "groups": ["core", "funcgen", "otherfeatures", "rnaseq"], "aliases": ["9595", "gorgor", "gorilla gorilla", "ggor", "9593", "ggorilla", "western gorilla", "gorilla gorilla gorilla", "gorilla", "gorilla_gorilla_gorilla"], "division": "EnsemblVertebrates", "display_name": "Gorilla", "strain_collection": null, "strain": null, "accession": "GCA_000151905.3", "taxon_id": "9595", "common_name": "Western Lowland Gorilla", "name": "gorilla_gorilla", "assembly": "gorGor4"}, {"common_name": "gray mouse lemur", "name": "microcebus_murinus", "assembly": "Mmur_3.0", "taxon_id": "30608", "accession": "GCA_000165445.3", "strain_collection": null, "strain": null, "groups": ["otherfeatures", "funcgen", "rnaseq", "core"], "division": "EnsemblVertebrates", "aliases": ["mouse lemur", "grey mouse lemur", "microcebus murinus", "mmur", "mmurinus", "gray mouse lemur", "mouse_lemur", "30608", "micmur"], "display_name": "Mouse Lemur", "release": 96}, {"release": 96, "display_name": "Drill", "groups": ["otherfeatures", "funcgen", "core"], "division": "EnsemblVertebrates", "aliases": [], "strain": null, "strain_collection": null, "accession": "GCA_000951045.1", "taxon_id": "9568", "assembly": "Mleu.le_1.0", "name": "mandrillus_leucophaeus", "common_name": "Drill"}, {"taxon_id": "103695", "name": "pogona_vitticeps", "common_name": "central bearded dragon", "assembly": "pvi1.1", "release": 96, "groups": ["core", "otherfeatures", "rnaseq"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Central bearded dragon", "strain_collection": null, "strain": null, "accession": "GCA_900067755.1"}, {"assembly": "NNQGG.v01", "common_name": "American mink", "name": "neovison_vison", "taxon_id": "452646", "strain": null, "strain_collection": null, "accession": "GCA_900108605.1", "release": 96, "display_name": "American mink", "groups": ["core", "rnaseq"], "division": "EnsemblVertebrates", "aliases": []}, {"accession": "GCA_001522545.2", "strain": null, "strain_collection": null, "display_name": "Great Tit", "groups": ["core", "rnaseq", "otherfeatures"], "aliases": [], "division": "EnsemblVertebrates", "release": 96, "assembly": "Parus_major1.1", "name": "parus_major", "common_name": "Great Tit", "taxon_id": "9157"}, {"taxon_id": "9544", "assembly": "Mmul_8.0.1", "name": "macaca_mulatta", "common_name": "rhesus monkey", "release": 96, "display_name": "Macaque", "aliases": ["mmulatta", "macaque", "rhesus_monkey", "9544", "macmul", "mmul", "rhesus monkey", "rhesus", "macaca mulatta"], "groups": ["otherfeatures", "funcgen", "rnaseq", "variation", "core"], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_000772875.3"}, {"accession": "GCF_000002275.2", "strain_collection": null, "strain": null, "aliases": ["ornithorhynchus anatinus", "oana", "platypus", "ornana", "oanatinus", "9258"], "groups": ["rnaseq", "variation", "funcgen", "otherfeatures", "core"], "division": "EnsemblVertebrates", "display_name": "Platypus", "release": 96, "common_name": "platypus", "name": "ornithorhynchus_anatinus", "assembly": "OANA5", "taxon_id": "9258"}, {"accession": "GCA_002234715.1", "strain": null, "strain_collection": null, "display_name": "Japanese medaka HNI", "aliases": [], "division": "EnsemblVertebrates", "groups": ["core", "rnaseq"], "release": 96, "assembly": "ASM223471v1", "common_name": "Japanese medaka HNI", "name": "oryzias_latipes_hni", "taxon_id": "8090"}, {"assembly": "Eburgeri_3.2", "name": "eptatretus_burgeri", "common_name": "Inshore hagfish", "taxon_id": "7764", "accession": "GCA_900186335.2", "strain": null, "strain_collection": null, "display_name": "Hagfish", "groups": ["rnaseq", "core"], "aliases": ["hagfish"], "division": "EnsemblVertebrates", "release": 96}, {"name": "canis_lupus_dingo", "common_name": "dingo", "assembly": "ASM325472v1", "taxon_id": "286419", "accession": "GCA_003254725.1", "strain_collection": null, "strain": null, "aliases": [], "groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "display_name": "Dingo", "release": 96}, {"taxon_id": "7955", "common_name": "zebrafish", "name": "danio_rerio", "assembly": "GRCz11", "groups": ["core", "variation", "rnaseq", "funcgen", "otherfeatures"], "aliases": ["danio rerio", "drerio", "danio", "7955", "zebrafish", "danrer", "zfish", "d_rerio", "drer"], "division": "EnsemblVertebrates", "display_name": "Zebrafish", "release": 96, "accession": "GCA_000002035.4", "strain_collection": null, "strain": null}, {"display_name": "Mouse NOD/ShiLtJ", "aliases": [], "division": "EnsemblVertebrates", "groups": ["core", "funcgen"], "release": 96, "accession": "GCA_001624675.1", "strain": "NOD/ShiLtJ", "strain_collection": "mouse", "taxon_id": "10090", "assembly": "NOD_ShiLtJ_v1", "name": "mus_musculus_nodshiltj", "common_name": "house mouse"}, {"groups": ["core", "rnaseq", "otherfeatures"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Bicolor damselfish", "release": 96, "accession": "GCA_000690725.1", "strain_collection": null, "strain": null, "taxon_id": "144197", "common_name": "bicolor damselfish", "name": "stegastes_partitus", "assembly": "Stegastes_partitus-1.0.2"}, {"release": 96, "division": "EnsemblVertebrates", "aliases": ["34839", "chinchilla lanigera", "clan", "long-tailed chinchilla", "chilan", "clanigera"], "groups": ["core", "rnaseq", "otherfeatures"], "display_name": "Long-tailed chinchilla", "strain_collection": null, "strain": null, "accession": "GCA_000276665.1", "taxon_id": "34839", "common_name": "Long-tailed chinchilla", "name": "chinchilla_lanigera", "assembly": "ChiLan1.0"}, {"accession": "GCA_001632555.1", "strain_collection": "mouse", "strain": "C57BL/6NJ", "division": "EnsemblVertebrates", "aliases": [], "groups": ["funcgen", "core"], "display_name": "Mouse C57BL/6NJ", "release": 96, "common_name": "house mouse", "name": "mus_musculus_c57bl6nj", "assembly": "C57BL_6NJ_v1", "taxon_id": "10090"}, {"taxon_id": "7994", "assembly": "Astyanax_mexicanus-2.0", "common_name": "Mexican tetra", "name": "astyanax_mexicanus", "release": 96, "display_name": "Mexican tetra", "groups": ["otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "aliases": ["astyanax mexicanus", "cave fish", "astmex", "amex", "7994", "amexicanus"], "strain": null, "strain_collection": null, "accession": "GCA_000372685.2"}, {"assembly": "SpeTri2.0", "name": "ictidomys_tridecemlineatus", "common_name": "thirteen-lined ground squirrel", "taxon_id": "43179", "accession": "GCA_000236235.1", "strain": null, "strain_collection": null, "display_name": "Squirrel", "aliases": ["stridecemlineatus", "spetri", "stri", "ictidomys tridecemlineatus", "43179", "spermophilus_tridecemlineatus", "squirrel", "thirteen-lined ground squirrel"], "groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "release": 96}, {"name": "vicugna_pacos", "common_name": "alpaca", "assembly": "vicPac1", "taxon_id": "30538", "strain_collection": null, "strain": null, "accession": null, "release": 96, "groups": ["core"], "aliases": ["vpac", "30538", "alpaca", "vicugnapacos", "vicpac", "vicugna pacos", "vpacos"], "division": "EnsemblVertebrates", "display_name": "Alpaca"}, {"display_name": "Australian saltwater crocodile", "groups": ["rnaseq", "otherfeatures", "core"], "division": "EnsemblVertebrates", "aliases": [], "release": 96, "accession": "GCA_001723895.1", "strain": null, "strain_collection": null, "taxon_id": "8502", "assembly": "CroPor_comp1", "common_name": "Australian saltwater crocodile", "name": "crocodylus_porosus"}, {"common_name": "white-throated sparrow", "name": "zonotrichia_albicollis", "assembly": "Zonotrichia_albicollis-1.0.1", "taxon_id": "44394", "strain_collection": null, "strain": null, "accession": "GCA_000385455.1", "release": 96, "division": "EnsemblVertebrates", "groups": ["core", "otherfeatures", "rnaseq"], "aliases": [], "display_name": "White-throated sparrow"}, {"release": 96, "display_name": "Orange clownfish", "groups": ["core", "rnaseq"], "aliases": [], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_003047355.1", "taxon_id": "161767", "assembly": "Nemo_v1", "name": "amphiprion_percula", "common_name": "orange clownfish"}, {"taxon_id": "74533", "assembly": "PanTig1.0", "common_name": "Tiger", "name": "panthera_tigris_altaica", "release": 96, "display_name": "Tiger", "groups": ["otherfeatures", "rnaseq", "core"], "aliases": ["tiger"], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_000464555.1"}, {"strain_collection": null, "strain": null, "accession": "GCA_000146605.1", "release": 96, "division": "EnsemblVertebrates", "aliases": ["mgallopavo", "common turkey", "wild turkey", "turkey", "melgal", "mga", "9103", "mgal", "meleagris gallopavo"], "groups": ["variation", "otherfeatures", "core"], "display_name": "Turkey", "common_name": "domestic turkey", "name": "meleagris_gallopavo", "assembly": "Turkey_2.01", "taxon_id": "9103"}, {"common_name": "Ugandan red Colobus", "name": "piliocolobus_tephrosceles", "assembly": "ASM277652v2", "taxon_id": "591936", "accession": "GCA_002776525.2", "strain_collection": null, "strain": null, "aliases": [], "groups": ["funcgen", "rnaseq", "core"], "division": "EnsemblVertebrates", "display_name": "Ugandan red Colobus", "release": 96}, {"groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "aliases": [], "display_name": "Alpine marmot", "release": 96, "accession": "GCA_001458135.1", "strain_collection": null, "strain": null, "taxon_id": "9994", "common_name": "Alpine marmot", "name": "marmota_marmota_marmota", "assembly": "marMar2.1"}, {"taxon_id": "9135", "assembly": "SCA1", "name": "serinus_canaria", "common_name": "common canary", "release": 96, "display_name": "Common canary", "aliases": [], "groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_000534875.1"}, {"common_name": "Okarito brown kiwi", "name": "apteryx_rowi", "assembly": "aptRow1", "taxon_id": "308060", "accession": "GCA_003343035.1", "strain_collection": null, "strain": null, "groups": ["core", "rnaseq", "otherfeatures"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Okarito brown kiwi", "release": 96}, {"accession": "GCA_003586115.1", "strain": null, "strain_collection": null, "display_name": "Argentine black and white tegu", "groups": ["rnaseq", "core"], "division": "EnsemblVertebrates", "aliases": [], "release": 96, "assembly": "HLtupMer3", "name": "salvator_merianae", "common_name": "Argentine black and white tegu", "taxon_id": "96440"}, {"display_name": "Sloth", "division": "EnsemblVertebrates", "groups": ["core"], "aliases": ["choffmanni", "chof", "choloepus hoffmanni", "choloepushoffmanni", "sloth", "9358", "two-toed sloth", "choloepus", "chohof", "hoffmann's two-fingered sloth"], "release": 96, "accession": null, "strain": null, "strain_collection": null, "taxon_id": "9358", "assembly": "choHof1", "name": "choloepus_hoffmanni", "common_name": "Hoffmann's two-fingered sloth"}, {"display_name": "Ryukyu mouse", "aliases": ["10089", "mcaroli", "muscar", "mus caroli", "mcar", "ryukyu mouse"], "division": "EnsemblVertebrates", "groups": ["core"], "release": 96, "accession": "GCA_900094665.2", "strain": "CAROLI_EIJ", "strain_collection": null, "taxon_id": "10089", "assembly": "CAROLI_EIJ_v1.1", "name": "mus_caroli", "common_name": "Ryukyu mouse"}, {"common_name": "European shrew", "name": "sorex_araneus", "assembly": "COMMON_SHREW1", "taxon_id": "42254", "strain_collection": null, "strain": null, "accession": null, "release": 96, "aliases": ["shrew", "saraneus", "sara", "european shrew", "european_shrew", "ground_shrew", "sorara", "42254", "sorex araneus"], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Shrew"}, {"common_name": "zebra finch", "name": "taeniopygia_guttata", "assembly": "taeGut3.2.4", "taxon_id": "59729", "accession": null, "strain_collection": null, "strain": null, "aliases": ["tguttata", "taeniopygia guttata", "59729", "zebra finch", "taegut", "taeniopygiaguttata", "finch", "tgut", "taeniopygia", "zebrafinch"], "groups": ["core", "variation", "otherfeatures"], "division": "EnsemblVertebrates", "display_name": "Zebra Finch", "release": 96}, {"accession": "GCA_003255815.1", "strain": null, "strain_collection": null, "display_name": "Gelada", "division": "EnsemblVertebrates", "aliases": [], "groups": ["funcgen", "rnaseq", "core"], "release": 96, "assembly": "Tgel_1.0", "common_name": "gelada", "name": "theropithecus_gelada", "taxon_id": "9565"}, {"display_name": "Tiger tail seahorse", "division": "EnsemblVertebrates", "groups": ["core", "otherfeatures", "rnaseq"], "aliases": [], "release": 96, "accession": "GCA_001891065.1", "strain": null, "strain_collection": null, "taxon_id": "109280", "assembly": "H_comes_QL1_v1", "name": "hippocampus_comes", "common_name": "tiger tail seahorse"}, {"release": 96, "display_name": "Brazilian guinea pig", "division": "EnsemblVertebrates", "groups": ["core"], "aliases": ["cavape", "37548", "cavia aperea", "caperea", "cape", "brazilian guinea pig"], "strain": null, "strain_collection": null, "accession": "GCA_000688575.1", "taxon_id": "37548", "assembly": "CavAp1.0", "name": "cavia_aperea", "common_name": "Brazilian guinea pig"}, {"accession": "GCA_000787105.1", "strain_collection": null, "strain": null, "aliases": [], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Periophthalmus magnuspinnatus", "release": 96, "common_name": "Periophthalmus magnuspinnatus", "name": "periophthalmus_magnuspinnatus", "assembly": "PM.fa", "taxon_id": "409849"}, {"taxon_id": "37293", "assembly": "Anan_2.0", "common_name": "Ma's night monkey", "name": "aotus_nancymaae", "display_name": "Ma's night monkey", "groups": ["otherfeatures", "funcgen", "rnaseq", "core"], "division": "EnsemblVertebrates", "aliases": [], "release": 96, "accession": "GCA_000952055.2", "strain": null, "strain_collection": null}, {"strain": null, "strain_collection": null, "accession": "GCA_000147115.1", "release": 96, "display_name": "Microbat", "division": "EnsemblVertebrates", "aliases": ["microbat", "mluc", "little brown bat", "59463", "myotis lucifugus", "mlucifugus", "myoluc", "little_brown_bat"], "groups": ["otherfeatures", "core"], "assembly": "Myoluc2.0", "common_name": "little brown bat", "name": "myotis_lucifugus", "taxon_id": "59463"}, {"strain_collection": null, "strain": null, "accession": "GCA_000003025.6", "release": 96, "division": "EnsemblVertebrates", "aliases": ["pigs", "wild boar", "sscrofa", "sus scrofa", "9823", "sscr", "pig", "swine"], "groups": ["core", "otherfeatures", "funcgen", "variation", "rnaseq"], "display_name": "Pig", "name": "sus_scrofa", "common_name": "pig", "assembly": "Sscrofa11.1", "taxon_id": "9823"}, {"accession": "GCA_000956105.1", "strain_collection": null, "strain": null, "division": "EnsemblVertebrates", "aliases": [], "groups": ["otherfeatures", "funcgen", "core"], "display_name": "Coquerel's sifaka", "release": 96, "name": "propithecus_coquereli", "common_name": "Coquerel's sifaka", "assembly": "Pcoq_1.0", "taxon_id": "379532"}, {"release": 96, "aliases": ["dmel", "d. melanogaster", "d.mel"], "division": "EnsemblVertebrates", "groups": ["core", "funcgen"], "display_name": "Drosophila melanogaster", "strain_collection": null, "strain": null, "accession": "GCA_000001215.4", "taxon_id": "7227", "name": "drosophila_melanogaster", "common_name": "fruit fly", "assembly": "BDGP6.22"}, {"assembly": "PunNye1.0", "common_name": "Makobe Island cichlid", "name": "pundamilia_nyererei", "taxon_id": "303518", "strain": null, "strain_collection": null, "accession": "GCA_000239375.1", "release": 96, "display_name": "Makobe Island cichlid", "groups": ["core", "otherfeatures", "rnaseq"], "aliases": [], "division": "EnsemblVertebrates"}, {"taxon_id": "9371", "assembly": "TENREC", "name": "echinops_telfairi", "common_name": "small Madagascar hedgehog", "display_name": "Lesser hedgehog tenrec", "aliases": ["9371", "lesser_hedgehog", "etelfairi", "lesser hedgehog tenrec", "etel", "echinops telfairi", "small madagascar hedgehog", "echtel", "tenrec", "madagascar_hedgehog"], "groups": ["core"], "division": "EnsemblVertebrates", "release": 96, "accession": null, "strain": null, "strain_collection": null}, {"groups": ["core", "rnaseq"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Dark-eyed junco", "release": 96, "accession": "GCA_003829775.1", "strain_collection": null, "strain": null, "taxon_id": "40217", "common_name": "dark-eyed junco", "name": "junco_hyemalis", "assembly": "ASM382977v1"}, {"groups": ["core", "otherfeatures", "rnaseq"], "division": "EnsemblVertebrates", "aliases": ["fox", "silver fox"], "display_name": "Red fox", "release": 96, "accession": "GCA_003160815.1", "strain_collection": null, "strain": null, "taxon_id": "9627", "name": "vulpes_vulpes", "common_name": "red fox", "assembly": "VulVul2.2"}, {"taxon_id": "9598", "assembly": "Pan_tro_3.0", "name": "pan_troglodytes", "common_name": "chimpanzee", "display_name": "Chimpanzee", "aliases": ["ptroglodytes", "pan troglodytes", "9598", "chimpanzee", "pantro", "common chimpanzee", "chimp", "ptro"], "groups": ["rnaseq", "variation", "funcgen", "otherfeatures", "core"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_000001515.5", "strain": null, "strain_collection": null}, {"accession": "GCA_000223135.1", "strain": null, "strain_collection": null, "display_name": "Chinese hamster CriGri", "aliases": ["cgriseus_crigri", "chinese hamster crigri", "cricetulus griseus crigri"], "groups": ["rnaseq", "funcgen", "otherfeatures", "core"], "division": "EnsemblVertebrates", "release": 96, "assembly": "CriGri_1.0", "common_name": "Chinese hamster", "name": "cricetulus_griseus_crigri", "taxon_id": "10029"}, {"strain_collection": null, "strain": null, "accession": "GCA_002260705.1", "release": 96, "aliases": [], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "rnaseq", "core"], "display_name": "Greater amberjack", "name": "seriola_dumerili", "common_name": "greater amberjack", "assembly": "Sdu_1.0", "taxon_id": "41447"}, {"taxon_id": "9365", "name": "erinaceus_europaeus", "common_name": "western European hedgehog", "assembly": "HEDGEHOG", "groups": ["core"], "division": "EnsemblVertebrates", "aliases": ["erieur", "9365", "erinaceus europaeus", "western_european_hedgehog", "hedgehog", "western european hedgehog", "eeuropaeus", "eeur"], "display_name": "Hedgehog", "release": 96, "accession": null, "strain_collection": null, "strain": null}, {"assembly": "loxAfr3", "name": "loxodonta_africana", "common_name": "African savanna elephant", "taxon_id": "9785", "accession": "GCA_000001905.1", "strain": null, "strain_collection": null, "display_name": "Elephant", "division": "EnsemblVertebrates", "groups": ["core"], "aliases": ["loxafr", "lafr", "elephant", "african savanna elephant", "lafricana", "9785", "loxodonta africana", "african_elephant"], "release": 96}, {"assembly": "NeoBri1.0", "common_name": "lyretail cichlid", "name": "neolamprologus_brichardi", "taxon_id": "32507", "strain": null, "strain_collection": null, "accession": "GCA_000239395.1", "release": 96, "display_name": "Lyretail cichlid", "aliases": [], "groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates"}, {"accession": "GCA_000230535.1", "strain_collection": null, "strain": null, "aliases": ["p_sinensis", "13735", "chinese soft shell turtle", "chinese softshell turtle", "psinensis", "softshell turtle", "pelodiscus sinensis"], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "rnaseq", "core"], "display_name": "Chinese softshell turtle", "release": 96, "common_name": "Chinese softshell turtle", "name": "pelodiscus_sinensis", "assembly": "PelSin_1.0", "taxon_id": "13735"}, {"common_name": "vole", "name": "microtus_ochrogaster", "assembly": "MicOch1.0", "taxon_id": "79684", "strain_collection": null, "strain": null, "accession": "GCA_000317375.1", "release": 96, "aliases": ["79684", "pvole", "m_ochrogaster", "micoch", "microtus ochrogaster", "vole", "mochrogaster", "moch", "prairie vole"], "groups": ["otherfeatures", "core"], "division": "EnsemblVertebrates", "display_name": "Prairie vole"}, {"strain_collection": null, "strain": null, "accession": "GCA_001698575.1", "release": 96, "aliases": [], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Ocean sunfish", "name": "mola_mola", "common_name": "ocean sunfish", "assembly": "ASM169857v1", "taxon_id": "94237"}, {"strain_collection": null, "strain": null, "accession": "GCA_000687225.1", "release": 96, "division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "rnaseq", "otherfeatures"], "display_name": "Polar bear", "name": "ursus_maritimus", "common_name": "Polar bear", "assembly": "UrsMar_1.0", "taxon_id": "29073"}, {"name": "dromaius_novaehollandiae", "common_name": "emu", "assembly": "droNov1", "taxon_id": "8790", "strain_collection": null, "strain": null, "accession": "GCA_003342905.1", "release": 96, "groups": ["otherfeatures", "rnaseq", "core"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Emu"}, {"common_name": "rabbit", "name": "oryctolagus_cuniculus", "assembly": "OryCun2.0", "taxon_id": "9986", "accession": "GCA_000003625.1", "strain_collection": null, "strain": null, "aliases": ["9986", "ocun", "oryctolagus cuniculus", "orycun", "ocuniculus", "rabbit"], "groups": ["otherfeatures", "funcgen", "rnaseq", "core"], "division": "EnsemblVertebrates", "display_name": "Rabbit", "release": 96}, {"name": "xiphophorus_couchianus", "common_name": "Monterrey platyfish", "assembly": "Xiphophorus_couchianus-4.0.1", "taxon_id": "32473", "strain_collection": null, "strain": null, "accession": "GCA_001444195.1", "release": 96, "aliases": [], "division": "EnsemblVertebrates", "groups": ["core"], "display_name": "Monterrey platyfish"}, {"assembly": "C_variegatus-1.0", "common_name": "sheepshead minnow", "name": "cyprinodon_variegatus", "taxon_id": "28743", "accession": "GCA_000732505.1", "strain": null, "strain_collection": null, "display_name": "Sheepshead minnow", "aliases": [], "groups": ["core", "funcgen", "otherfeatures", "rnaseq"], "division": "EnsemblVertebrates", "release": 96}, {"accession": "GCA_000224145.1", "strain": null, "strain_collection": null, "display_name": "C.intestinalis", "groups": ["core", "funcgen", "otherfeatures"], "division": "EnsemblVertebrates", "aliases": ["cioint", "c.intestinalis", "cintestinalis", "sea squirt ciona intestinalis", "7719", "ciona intestinalis", "cint", "ciona"], "release": 96, "assembly": "KH", "common_name": "Sea squirt Ciona intestinalis", "name": "ciona_intestinalis", "taxon_id": "7719"}, {"division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "otherfeatures", "rnaseq"], "display_name": "Red-bellied piranha", "release": 96, "accession": "GCA_001682695.1", "strain_collection": null, "strain": null, "taxon_id": "42514", "name": "pygocentrus_nattereri", "common_name": "red-bellied piranha", "assembly": "Pygocentrus_nattereri-1.0.2"}, {"groups": ["otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "aliases": [], "display_name": "Northern pike", "release": 96, "accession": "GCA_000721915.3", "strain_collection": null, "strain": null, "taxon_id": "8010", "name": "esox_lucius", "common_name": "northern pike", "assembly": "Eluc_V3"}, {"assembly": "OchPri2.0-Ens", "name": "ochotona_princeps", "common_name": "American pika", "taxon_id": "9978", "strain": null, "strain_collection": null, "accession": null, "release": 96, "display_name": "Pika", "aliases": ["american pika", "opri", "ochotona princeps", "ochpri", "oprinceps", "9978", "pika"], "groups": ["core"], "division": "EnsemblVertebrates"}, {"accession": "GCA_000215625.1", "strain": null, "strain_collection": null, "display_name": "Ferret", "groups": ["core", "rnaseq", "otherfeatures"], "aliases": ["9669", "musput", "mustela putorius furo", "mput", "ferret", "domestic ferret", "mputorius_furo"], "division": "EnsemblVertebrates", "release": 96, "assembly": "MusPutFur1.0", "common_name": "Domestic ferret", "name": "mustela_putorius_furo", "taxon_id": "9669"}, {"release": 96, "division": "EnsemblVertebrates", "aliases": ["csav", "csavignyi", "c.savignyi", "51511", "ciosav", "sea squirt ciona savignyi", "ciona savignyi"], "groups": ["otherfeatures", "core"], "display_name": "C.savignyi", "strain_collection": null, "strain": null, "accession": null, "taxon_id": "51511", "common_name": "Sea squirt Ciona savignyi", "name": "ciona_savignyi", "assembly": "CSAV2.0"}, {"release": 96, "display_name": "Mongolian gerbil", "division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "otherfeatures", "rnaseq"], "strain": null, "strain_collection": null, "accession": "GCA_002204375.1", "taxon_id": "10047", "assembly": "MunDraft-v1.0", "common_name": "Mongolian gerbil", "name": "meriones_unguiculatus"}, {"name": "paramormyrops_kingsleyae", "common_name": "Paramormyrops kingsleyae", "assembly": "PKINGS_0.1", "taxon_id": "1676925", "strain_collection": null, "strain": null, "accession": "GCA_002872115.1", "release": 96, "groups": ["core", "rnaseq"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Paramormyrops kingsleyae"}, {"strain_collection": null, "strain": null, "accession": "GCA_000280705.1", "release": 96, "aliases": ["jjac", "jaculus jaculus", "jacjac", "jjaculus", "lesser egyptian jerboa", "51337"], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "core"], "display_name": "Lesser Egyptian jerboa", "common_name": "Lesser Egyptian jerboa", "name": "jaculus_jaculus", "assembly": "JacJac1.0", "taxon_id": "51337"}, {"assembly": "Dord_2.0", "common_name": "Ord's kangaroo rat", "name": "dipodomys_ordii", "taxon_id": "10020", "strain": null, "strain_collection": null, "accession": "GCA_000151885.2", "release": 96, "display_name": "Kangaroo rat", "aliases": ["dipodomysordii", "dord", "kangaroo_rat", "ord's kangaroo rat", "ords kangaroo rat", "10020", "dipord", "dipodomys ordii", "dordii", "kangaroo rat"], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "core"]}, {"strain_collection": null, "strain": null, "accession": "GCA_000955945.1", "release": 96, "aliases": [], "groups": ["funcgen", "otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "display_name": "Sooty mangabey", "common_name": "Sooty mangabey", "name": "cercocebus_atys", "assembly": "Caty_1.0", "taxon_id": "9531"}, {"strain_collection": null, "strain": null, "accession": "GCA_000188235.1", "release": 96, "aliases": ["o. niloticus", "oreochromis niloticus", "8128", "nile tilapia", "onil", "oniloticus", "tilapia", "orenil"], "groups": ["core", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "display_name": "Tilapia", "name": "oreochromis_niloticus", "common_name": "Nile tilapia", "assembly": "Orenil1.0", "taxon_id": "8128"}, {"display_name": "Orangutan", "groups": ["core", "variation", "rnaseq", "otherfeatures"], "division": "EnsemblVertebrates", "aliases": ["ppygmaeus", "sumatran orangutan", "orang_utan", "pongo abelii", "ponpyg", "pabelii", "orang", "ponabe", "orangutan", "bornean orangutan", "pongo pygmaeus", "ppyg", "pabe", "pongo_pygmaeus", "9601"], "release": 96, "accession": null, "strain": null, "strain_collection": null, "taxon_id": "9601", "assembly": "PPYG2", "common_name": "Bornean orangutan", "name": "pongo_abelii"}, {"common_name": "Western painted turtle", "name": "chrysemys_picta_bellii", "assembly": "Chrysemys_picta_bellii-3.0.3", "taxon_id": "8478", "accession": "GCA_000241765.2", "strain_collection": null, "strain": null, "division": "EnsemblVertebrates", "aliases": ["western painted turtle", "painted turtle"], "groups": ["core", "rnaseq", "otherfeatures"], "display_name": "Painted turtle", "release": 96}, {"taxon_id": "106582", "common_name": "zebra mbuna", "name": "maylandia_zebra", "assembly": "M_zebra_UMD2a", "division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "otherfeatures", "rnaseq"], "display_name": "Zebra mbuna", "release": 96, "accession": "GCA_000238955.5", "strain_collection": null, "strain": null}, {"release": 96, "groups": ["core", "funcgen", "otherfeatures", "rnaseq", "variation"], "aliases": ["ecaballus", "equuscaballus", "equus caballus", "horse", "ecab", "9796", "equcab"], "division": "EnsemblVertebrates", "display_name": "Horse", "strain_collection": null, "strain": null, "accession": "GCA_002863925.1", "taxon_id": "9796", "name": "equus_caballus", "common_name": "horse", "assembly": "EquCab3.0"}, {"taxon_id": "10036", "assembly": "MesAur1.0", "name": "mesocricetus_auratus", "common_name": "Golden Hamster", "release": 96, "display_name": "Golden Hamster", "groups": ["otherfeatures", "funcgen", "core"], "aliases": ["mesocricetus auratus", "mauratus", "mesaur", "10036", "golden hamster", "maur"], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_000349665.1"}, {"taxon_id": "132908", "assembly": "pteVam1", "name": "pteropus_vampyrus", "common_name": "large flying fox", "release": 96, "display_name": "Megabat", "division": "EnsemblVertebrates", "groups": ["core"], "aliases": ["large flying fox", "pvam", "132908", "pvampyrus", "pteropus vampyrus", "megabat", "pteropusvampyrus", "ptevam"], "strain": null, "strain_collection": null, "accession": null}, {"strain_collection": null, "strain": null, "accession": "GCA_002814215.1", "release": 96, "aliases": [], "groups": ["otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "display_name": "Yellowtail amberjack", "name": "seriola_lalandi_dorsalis", "common_name": "yellowtail amberjack", "assembly": "Sedor1", "taxon_id": "1841481"}, {"taxon_id": "156563", "assembly": "cyaCae2", "name": "cyanistes_caeruleus", "common_name": "blue tit", "release": 96, "display_name": "Blue tit", "groups": ["rnaseq", "otherfeatures", "core"], "aliases": [], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_002901205.1"}, {"display_name": "Mouse PWK/PhJ", "aliases": ["mmusculus_musculus_pwkphj", "mus musculus musculus pwkphj", "mus_musculus_musculus_pwkphj", "mouse pwkphj", "39442", "eastern european house mouse"], "groups": ["funcgen", "core"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_001624775.1", "strain": "PWK/PhJ", "strain_collection": "mouse", "taxon_id": "39442", "assembly": "PWK_PhJ_v1", "common_name": "eastern european house mouse", "name": "mus_musculus_pwkphj"}, {"aliases": ["gadmor", "atlantic cod", "gmor", "gadus morhua", "atlantic_cod", "gmorhua", "cod", "8049"], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Cod", "release": 96, "accession": null, "strain_collection": null, "strain": null, "taxon_id": "8049", "common_name": "Atlantic cod", "name": "gadus_morhua", "assembly": "gadMor1"}, {"accession": "GCA_000239415.1", "strain_collection": null, "strain": null, "aliases": [], "groups": ["otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "display_name": "Burton's mouthbrooder", "release": 96, "common_name": "Burton's mouthbrooder", "name": "haplochromis_burtoni", "assembly": "AstBur1.0", "taxon_id": "8153"}, {"name": "saccharomyces_cerevisiae", "common_name": "baker's yeast", "assembly": "R64-1-1", "taxon_id": "4932", "strain_collection": null, "strain": "S288C", "accession": "GCA_000146045.2", "release": 96, "groups": ["funcgen", "otherfeatures", "variation", "core"], "division": "EnsemblVertebrates", "aliases": ["scer", "s_cerevisiae", "4932", "baker's yeast", "saccer", "saccharomyces cerevisiae (baker's yeast)", "scerevisiae", "saccharomyces cerevisiae", "saccharomyces cerevisiae s288c"], "display_name": "Saccharomyces cerevisiae"}, {"name": "cynoglossus_semilaevis", "common_name": "tongue sole", "assembly": "Cse_v1.0", "taxon_id": "244447", "strain_collection": null, "strain": null, "accession": "GCA_000523025.1", "release": 96, "division": "EnsemblVertebrates", "aliases": [], "groups": ["core", "rnaseq", "otherfeatures"], "display_name": "Tongue sole"}, {"accession": "GCA_000002285.2", "strain_collection": null, "strain": null, "aliases": ["dog", "canis lupus familiaris", "canis", "cfamiliaris", "canis familiaris", "9615", "canis_lupus_familiaris", "c_familiaris", "canfam", "cfam"], "groups": ["core", "variation", "rnaseq", "otherfeatures", "funcgen"], "division": "EnsemblVertebrates", "display_name": "Dog", "release": 96, "common_name": "dog", "name": "canis_familiaris", "assembly": "CanFam3.1", "taxon_id": "9615"}, {"accession": "GCA_001952655.1", "strain": null, "strain_collection": null, "display_name": "Swamp eel", "division": "EnsemblVertebrates", "aliases": [], "groups": ["rnaseq", "otherfeatures", "core"], "release": 96, "assembly": "M_albus_1.0", "name": "monopterus_albus", "common_name": "swamp eel", "taxon_id": "43700"}, {"accession": "GCA_000004335.1", "strain": null, "strain_collection": null, "display_name": "Panda", "division": "EnsemblVertebrates", "groups": ["otherfeatures", "core"], "aliases": ["amel", "panda", "ailmel1", "ailuropoda melanoleuca", "giant panda", "amelanoleuca", "9646", "ailmel"], "release": 96, "assembly": "ailMel1", "name": "ailuropoda_melanoleuca", "common_name": "giant panda", "taxon_id": "9646"}, {"assembly": "C.can_genome_v1.0", "common_name": "American beaver", "name": "castor_canadensis", "taxon_id": "51338", "strain": null, "strain_collection": null, "accession": "GCA_001984765.1", "release": 96, "display_name": "American beaver", "division": "EnsemblVertebrates", "groups": ["rnaseq", "otherfeatures", "core"], "aliases": []}, {"assembly": "Melopsittacus_undulatus_6.3", "common_name": "Budgie", "name": "melopsittacus_undulatus", "taxon_id": "13146", "accession": "GCA_000238935.1", "strain": null, "strain_collection": null, "display_name": "Budgerigar", "aliases": [], "division": "EnsemblVertebrates", "groups": ["otherfeatures", "rnaseq", "core"], "release": 96}, {"taxon_id": "230844", "assembly": "HU_Pman_2.1", "name": "peromyscus_maniculatus_bairdii", "common_name": "Northern American deer mouse", "display_name": "Northern American deer mouse", "aliases": ["perman", "peromyscus maniculatus bairdii", "pmaniculatus_bairdii", "northern american deer mouse", "230844", "pman"], "groups": ["core"], "division": "EnsemblVertebrates", "release": 96, "accession": "GCA_003704035.1", "strain": null, "strain_collection": null}, {"release": 96, "division": "EnsemblVertebrates", "aliases": ["flycatcher", "f_albicollis", "ficedula albicollis", "falb", "ficalb", "falbicollis", "collared flycatcher", "59894"], "groups": ["core", "otherfeatures", "rnaseq"], "display_name": "Flycatcher", "strain_collection": null, "strain": null, "accession": "GCA_000247815.1", "taxon_id": "59894", "name": "ficedula_albicollis", "common_name": "Collared flycatcher", "assembly": "FicAlb_1.4"}, {"taxon_id": "72004", "assembly": "BosGru_v2.0", "name": "bos_mutus", "common_name": "wild yak", "display_name": "Wild yak", "groups": ["core", "otherfeatures", "rnaseq"], "division": "EnsemblVertebrates", "aliases": [], "release": 96, "accession": "GCA_000298355.1", "strain": null, "strain_collection": null}, {"name": "mus_musculus_balbcj", "common_name": "house mouse", "assembly": "BALB_cJ_v1", "taxon_id": "10090", "accession": "GCA_001632525.1", "strain_collection": "mouse", "strain": "BALB/cJ", "groups": ["core", "funcgen"], "aliases": [], "division": "EnsemblVertebrates", "display_name": "Mouse BALB/cJ", "release": 96}, {"assembly": "CAST_EiJ_v1", "name": "mus_musculus_casteij", "common_name": "south eastern house mouse", "taxon_id": "10091", "strain": "CAST/EiJ", "strain_collection": "mouse", "accession": "GCA_001624445.1", "release": 96, "display_name": "Mouse CAST/EiJ", "aliases": ["mouse casteij", "south eastern house mouse", "mus musculus castaneus casteij", "10091", "mmusculus_castaneus_casteij", "mus_musculus_castaneus_casteij"], "groups": ["funcgen", "core"], "division": "EnsemblVertebrates"}, {"name": "rattus_norvegicus", "common_name": "Norway rat", "assembly": "Rnor_6.0", "taxon_id": "10116", "strain_collection": null, "strain": null, "accession": "GCA_000001895.4", "release": 96, "groups": ["core", "otherfeatures", "funcgen", "rnaseq", "variation"], "division": "EnsemblVertebrates", "aliases": ["norway rat", "rnorvegicus", "rattus norvegicus", "rat", "10116", "ratnor", "rattus", "rnor", "r_norvegicus"], "display_name": "Rat"}, {"assembly": "OtoGar3", "common_name": "small-eared galago", "name": "otolemur_garnettii", "taxon_id": "30611", "strain": null, "strain_collection": null, "accession": "GCA_000181295.3", "release": 96, "display_name": "Bushbaby", "aliases": ["ogarnettii", "30611", "small-eared galago", "galago", "otogar", "bushbaby", "ogar", "otolemur garnettii"], "groups": ["otherfeatures", "core"], "division": "EnsemblVertebrates"}, {"common_name": "naked mole-rat", "name": "heterocephalus_glaber_male", "assembly": "HetGla_1.0", "taxon_id": "10181", "strain_collection": null, "strain": null, "accession": "GCA_000230445.1", "release": 96, "division": "EnsemblVertebrates", "aliases": ["hetgla", "naked mole-rat male", "hglaber_male", "hgla", "10181", "naked mole-rat", "heterocephalus glaber male"], "groups": ["rnaseq", "otherfeatures", "core"], "display_name": "Naked mole-rat male"}, {"strain": "N2", "strain_collection": null, "accession": "GCA_000002985.3", "release": 96, "display_name": "Caenorhabditis elegans", "division": "EnsemblVertebrates", "groups": ["core", "funcgen"], "aliases": ["caenorhabditis_elegans_prjna13758", "c.elegans", "celegans", "cele", "caeele", "caenorhabditis elegans", "6239", "elegans", "worm"], "assembly": "WBcel235", "name": "caenorhabditis_elegans", "common_name": "C.elegans", "taxon_id": "6239"}, {"strain": null, "strain_collection": null, "accession": "GCA_000633615.2", "release": 96, "display_name": "Guppy", "aliases": [], "groups": ["otherfeatures", "rnaseq", "core"], "division": "EnsemblVertebrates", "assembly": "Guppy_female_1.0_MT", "common_name": "guppy", "name": "poecilia_reticulata", "taxon_id": "8081"}, {"accession": "GCA_002234695.1", "strain": null, "strain_collection": null, "display_name": "Japanese medaka HSOK", "aliases": [], "division": "EnsemblVertebrates", "groups": ["core", "rnaseq"], "release": 96, "assembly": "ASM223469v1", "common_name": "Japanese medaka HSOK", "name": "oryzias_latipes_hsok", "taxon_id": "8090"}, {"taxon_id": "99883", "assembly": "TETRAODON8", "name": "tetraodon_nigroviridis", "common_name": "spotted green pufferfish", "display_name": "Tetraodon", "groups": ["core", "variation", "otherfeatures"], "aliases": ["tnig", "tnigroviridis", "tetnig", "fresh water pufferfish", "tetraodon", "spotted green pufferfish", "tetraodon nigroviridis", "99883"], "division": "EnsemblVertebrates", "release": 96, "accession": null, "strain": null, "strain_collection": null}, {"taxon_id": "30464", "name": "nothoprocta_perdicaria", "common_name": "birds", "assembly": "notPer1", "release": 96, "aliases": [], "groups": ["core", "otherfeatures"], "division": "EnsemblVertebrates", "display_name": "Chilean tinamou", "strain_collection": null, "strain": null, "accession": "GCA_003342845.1"}, {"release": 96, "aliases": ["37347", "tbelangeri", "tbel", "northern tree shrew", "tupaia belangeri", "tupbel", "tree_shrew", "tree shrew"], "groups": ["core"], "division": "EnsemblVertebrates", "display_name": "Tree Shrew", "strain_collection": null, "strain": null, "accession": null, "taxon_id": "37347", "name": "tupaia_belangeri", "common_name": "northern tree shrew", "assembly": "TREESHREW"}, {"release": 96, "aliases": [], "groups": ["core", "funcgen"], "division": "EnsemblVertebrates", "display_name": "Mouse C3H/HeJ", "strain_collection": "mouse", "strain": "C3H/HeJ", "accession": "GCA_001632575.1", "taxon_id": "10090", "name": "mus_musculus_c3hhej", "common_name": "house mouse", "assembly": "C3H_HeJ_v1"}, {"aliases": [], "groups": ["core", "otherfeatures", "rnaseq"], "division": "EnsemblVertebrates", "display_name": "Shortfin molly", "release": 96, "accession": "GCA_001443325.1", "strain_collection": null, "strain": null, "taxon_id": "48701", "name": "poecilia_mexicana", "common_name": "shortfin molly", "assembly": "P_mexicana-1.0"}, {"release": 96, "display_name": "Japanese medaka HdrR", "groups": ["otherfeatures", "rnaseq", "core"], "aliases": ["olatipes", "medaka", "japanese medaka", "olat", "oryzias latipes", "orylat", "8090"], "division": "EnsemblVertebrates", "strain": null, "strain_collection": null, "accession": "GCA_002234675.1", "taxon_id": "8090", "assembly": "ASM223467v1", "common_name": "Japanese medaka HdrR", "name": "oryzias_latipes"}, {"taxon_id": "9813", "name": "procavia_capensis", "common_name": "cape rock hyrax", "assembly": "proCap1", "release": 96, "aliases": ["procaviacapensis", "rock_hyrax", "procap", "cape rock hyrax", "hyrax", "pcap", "pcapensis", "9813", "procavia capensis"], "division": "EnsemblVertebrates", "groups": ["core"], "display_name": "Hyrax", "strain_collection": null, "strain": null, "accession": null}, {"assembly": "AKR_J_v1", "name": "mus_musculus_akrj", "common_name": "house mouse", "taxon_id": "10090", "accession": "GCA_001624295.1", "strain": "AKR/J", "strain_collection": "mouse", "display_name": "Mouse AKR/J", "groups": ["funcgen", "core"], "division": "EnsemblVertebrates", "aliases": [], "release": 96}]
+
+   - Let's try now changing the parameters of order in the url: http://localhost:8000/listSpecies?json=1&limit=5
+        [{"aliases": [], "release": 96, "taxon_id": "51338", "strain": null, "name": "castor_canadensis", "strain_collection": null, "accession": "GCA_001984765.1", "division": "EnsemblVertebrates", "common_name": "American beaver", "assembly": "C.can_genome_v1.0", "display_name": "American beaver", "groups": ["rnaseq", "core", "otherfeatures"]}, {"accession": "GCA_000224145.1", "strain_collection": null, "division": "EnsemblVertebrates", "name": "ciona_intestinalis", "strain": null, "taxon_id": "7719", "release": 96, "aliases": ["7719", "cioint", "ciona", "cintestinalis", "cint", "ciona intestinalis", "c.intestinalis", "sea squirt ciona intestinalis"], "display_name": "C.intestinalis", "groups": ["otherfeatures", "funcgen", "core"], "assembly": "KH", "common_name": "Sea squirt Ciona intestinalis"}, {"groups": ["rnaseq", "core", "otherfeatures"], "display_name": "Central bearded dragon", "assembly": "pvi1.1", "common_name": "central bearded dragon", "division": "EnsemblVertebrates", "accession": "GCA_900067755.1", "strain_collection": null, "taxon_id": "103695", "strain": null, "name": "pogona_vitticeps", "release": 96, "aliases": []}, {"aliases": [], "release": 96, "taxon_id": "328815", "strain": null, "name": "manacus_vitellinus", "division": "EnsemblVertebrates", "strain_collection": null, "accession": "GCA_001715985.2", "common_name": "golden-collared manakin", "assembly": "ASM171598v2", "groups": ["core", "rnaseq", "otherfeatures"], "display_name": "Golden-collared manakin"}, {"common_name": "steppe mouse", "assembly": "MUSP714", "groups": ["core", "rnaseq"], "display_name": "Steppe mouse", "aliases": [], "release": 96, "strain": null, "name": "mus_spicilegus", "taxon_id": "10103", "strain_collection": null, "accession": "GCA_003336285.1", "division": "EnsemblVertebrates"}]
+
+
+
+
+   Let's try the second endpoint: /karyotype
+
+   - Let's try entering a valid specie: http://localhost:8000/karyotype?specie=mouse&json=1
+        ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "X", "Y", "MT"]
+
+   - Let's try entering a combination of letters that are not a valid specie: http://localhost:8000/karyotype?specie=jakjfka&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering a combination of numbers that are not a valid specie: http://localhost:8000/karyotype?specie=1231&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering a combination of numbers and letters that are not a valid specie: http://localhost:8000/karyotype?specie=jld342&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try not specifying a specie: http://localhost:8000/karyotype&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try submitting in blank: http://localhost:8000/karyotype?specie=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try changing of places between json and specie in the url: http://localhost:8000/karyotype?json=1&specie=mouse
+        ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "X", "Y", "MT"]
+
+
+
+
+
+   Let's try the third endpoint: /chromosomeLength
+
+    - Let's try entering a valid specie and valid chromosome(number): http://localhost:8000/chromosomeLength?specie=mouse&chromo=1&json=1
+        {"length": "195471971"}
+
+    - Let's try entering a valid specie and valid chromosome(letter): http://localhost:8000/chromosomeLength?specie=human&chromo=X&json=1
+        {"length": "156040895"}
+
+    - Let's try entering a valid specie and invalid chromosome(combination of letters): http://localhost:8000/chromosomeLength?specie=human&chromo=jsidfjlksajkf&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering a valid specie and invalid chromosome(combination of numbers): http://localhost:8000/chromosomeLength?specie=human&chromo=23232&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering an invalid specie(combination of letters) and invalid chromosome: http://localhost:8000/chromosomeLength?specie=ijsdflkasf&chromo=1&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering an invalid specie(combination of numbers) and invalid chromosome: http://localhost:8000/chromosomeLength?specie=34232&chromo=1&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try entering both invalid parameters(wrong specie and wrong chromosome): http://localhost:8000/chromosomeLength?specie=jfka&chromo=klafjka&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now changing the order of parameters when entering the url, let's try now typing first the chromosome and then the specie: http://localhost:8000/chromosomeLength?chromo=1&specie=mouse&json=1
+        {"length": "195471971"}
+
+        If we know set one of the parameters invalid, an error page is raised:
+            <!DOCTYPE html>
+            <html lang="en" dir="ltr">
+              <head>
+                <meta charset="utf-8">
+                <title>Error</title>
+              </head>
+              <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+                <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+                <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+              </body>
+            </html>
+
+    - Let's try submiting in blank: http://localhost:8000/chromosomeLength?specie=&chromo=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try not sending one of the parameters in the url: http://localhost:8000/chromosomeLength?specie=mouse&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try not sending parameters: http://localhost:8000/chromosomeLength&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending one of the parameters in blank: http://localhost:8000/chromosomeLength?specie=mouse&chromo=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+
+    Let's try the first endpoint for this second part: /geneSeq
+
+    - Let's try with a valid gene: http://localhost:8000/geneSeq?gene=FRAT1&json=1
+        {"seq": "ATTCCGGCTCCCGCGGCTGCAGGCGCGCGGCTAGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCGGCCCCGGTCCAGACTTAGTCTTCAGCTCCGCGCCCGCTCCGCCGCGGCCCACCGCGCCCGCCGGCAGCCGAGCCCCCAGCGACGCCCGCACAGCTCCGGGTGCCCAGACAGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGAGGACAGCTTCCTCCTACTGCAGCAGTCAGTGGCGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGCACAGCCCGGCCTCGCCGTGCGGGCCCCCGGGGGCGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCAGGTCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCGTTGGCGGAGACTGTGGGCCCGGCGCCCCCTGGGGTCCTGCGCTGCGCCCTGGGGGACCGCGGCCGCGTGCGGGGCCGCGCTGCGCCCTACTGCGTGGCCGAGCTCGCCACAGGCCCCAGCGCGCTGTCCCCACTGCCCCCTCAGGCCGACCTTGATGGGCCTCCGGGAGCTGGCAAGCAGGGCATCCCGCAGCCGCTGTCGGGTCCGTGCCGGCGAGGATGGCTCCGGGGCGCCGCCGCCTCCCGCCGCCTGCAGCAGCGACGCGGGTCCCAACCAGAAACCCGCACAGGCGACGACGACCCGCACCGGCTTCTGCAGCAGCTAGTGCTCTCTGGAAACCTCATCAAGGAGGCCGTGCGAAGGCTTCATTCGCGACGGCTGCAGTTACGTGCAAAGCTTCCCCAACGCCCGCTCCTGGGACCTCTGTCGGCCCCGGTGCATGAACCCCCTTCGCCTCGCAGCCCTCGCGCGGCCTGCAGTGACCCTGGCGCCTCCGGGAGGGCGCAGCTCAGAACTGGCGACGGCGTTCTTGTGCCTGGCAGCTAACACGCCCGGGGTGGCCACAGCGCCAGCCTCAGACTGGAGGGCAAGGGGTTCCCTTGAGGGCTGCAGTTCTACTCAGGCTGGTGGAGAACTCTGGCTTTTGGAAGCGAGAGTAAAAAGCTAATGACGAGGAACCGAAAAATCGCGAGTGTTTCGCGGGTAACTGGGGTTGAGGGCCAAAATATTTGGAATGAAGGACTTTGGCCCTATTTAAGGCAGATTTTACAGAGCGCACCTCAAACGTACAAGTCAGTAGGACTCCTTATTTGGCGTGACCCGACCTGGCCGCGGAGCCTGCATTTCCTCGCAGCCTCTCAGTGCCCTCCAGCCCCGCGACCATGTGGCCACAATCCACGCTTCTCCGGATCGCGGTGCGCCGGAACCACGGAGGATGATGCCAGTTACTTGCTTTACCTTTTCAGGGCTGGCTCCTGATCCACTTTGGGGGAGGAGAACATGAGTAGATAATTTCAGGGTGCAGCCCAATCTGCCAGACTTAAAAAAACCATCTTGTGTCTTTGGAGGTGCTGCTTAATACCAAACATGCGGTGCCATGAAGGGACCCTTTGGGGGTTGAATAGGAGTTAACCCCTGCGCTCTCTTTGCAACTGTCTCTCTTCTCAGAGTGGTGGGGGAAGGCTGTACGACACGGGTGGGGAAAGGAGGTGGGGGCGGGGAGTATTGAATGGTGGTGGAAGGGTAGAGAGGCGCGGAGTGAACCCCACGCCCTGTCTAAAGTGTATTTTCAGAGCCGGCCCGCCTCTCCTCGGTTCAAGGTCACTGTTTCCTGGGCACGCACTGGGTTGCGGGACAGAGTAGCCAGGTTCTGCCGGTGCTCGGAGAAGAGCGCAGTGTTTTGCAAGTGCTGGAGTCTCCTGAGGACACGCGCGTCGCCGCCACCGCGGGTGTGGGAAAGCGCGGACGTGCTGGGCGGCTGTGCTTCGGTAGGCGACCACCGCCCCTGGCCGCGCTCCGGGCTTTCACGGAAACTCCCGAGACCGGGCCCTGGGTTCCTCCTCTCCTACTCGGCTCTGCAGTCCTACTCAAGCGGGTGGCTCTGGGATCCTGGGGGCCTGGGTTGGGGGCTAGGGAGACGCCATGTGATGGACACTCCAGGGACACACAGCCTAGCACAGCAGCTTATAATGGGCTCTCCGGGGCCATTTGCAATAACAGCTGCAATTCCCTGGATAGACGAGTTGATTTCCTCCCTCTGCCCCTCCCCCAGCCATGCCAGCTGGCCTTTGTAAGTGCAGGAAACCGAGTAGAAAATGTGACCCTCCAAATGGAGAAGCTGCAGGCTTTGCCATTGTGAACCATGGTGAAGTGCTTGGAACATACTGTTCACTCACTCTAAAGGCGCTGAGACTGTGCTGTTGTTCTCGTTTTTATAGTCAATGGCTTGTTCATCATCCAGATGTGGCTACTGACATATCTACACTTCGCACCGGAGTGTCTGGAATTGTGGCTATCCTGATTATAGGATTTTAACTTAACTGAAATGCCTGCTTTGAATAAATGTGTTGGGTTTTTTGTTTGGTTTTATTTTATACTTGCCATCAGTGAAAAAGATGTACAGAACACATTTCTCTGATCTCCATAAACATGAAAACACTTGAAATCTC"}{"seq": "ATTCCGGCTCCCGCGGCTGCAGGCGCGCGGCTAGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCGGCCCCGGTCCAGACTTAGTCTTCAGCTCCGCGCCCGCTCCGCCGCGGCCCACCGCGCCCGCCGGCAGCCGAGCCCCCAGCGACGCCCGCACAGCTCCGGGTGCCCAGACAGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGAGGACAGCTTCCTCCTACTGCAGCAGTCAGTGGCGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGCACAGCCCGGCCTCGCCGTGCGGGCCCCCGGGGGCGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCAGGTCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCGTTGGCGGAGACTGTGGGCCCGGCGCCCCCTGGGGTCCTGCGCTGCGCCCTGGGGGACCGCGGCCGCGTGCGGGGCCGCGCTGCGCCCTACTGCGTGGCCGAGCTCGCCACAGGCCCCAGCGCGCTGTCCCCACTGCCCCCTCAGGCCGACCTTGATGGGCCTCCGGGAGCTGGCAAGCAGGGCATCCCGCAGCCGCTGTCGGGTCCGTGCCGGCGAGGATGGCTCCGGGGCGCCGCCGCCTCCCGCCGCCTGCAGCAGCGACGCGGGTCCCAACCAGAAACCCGCACAGGCGACGACGACCCGCACCGGCTTCTGCAGCAGCTAGTGCTCTCTGGAAACCTCATCAAGGAGGCCGTGCGAAGGCTTCATTCGCGACGGCTGCAGTTACGTGCAAAGCTTCCCCAACGCCCGCTCCTGGGACCTCTGTCGGCCCCGGTGCATGAACCCCCTTCGCCTCGCAGCCCTCGCGCGGCCTGCAGTGACCCTGGCGCCTCCGGGAGGGCGCAGCTCAGAACTGGCGACGGCGTTCTTGTGCCTGGCAGCTAACACGCCCGGGGTGGCCACAGCGCCAGCCTCAGACTGGAGGGCAAGGGGTTCCCTTGAGGGCTGCAGTTCTACTCAGGCTGGTGGAGAACTCTGGCTTTTGGAAGCGAGAGTAAAAAGCTAATGACGAGGAACCGAAAAATCGCGAGTGTTTCGCGGGTAACTGGGGTTGAGGGCCAAAATATTTGGAATGAAGGACTTTGGCCCTATTTAAGGCAGATTTTACAGAGCGCACCTCAAACGTACAAGTCAGTAGGACTCCTTATTTGGCGTGACCCGACCTGGCCGCGGAGCCTGCATTTCCTCGCAGCCTCTCAGTGCCCTCCAGCCCCGCGACCATGTGGCCACAATCCACGCTTCTCCGGATCGCGGTGCGCCGGAACCACGGAGGATGATGCCAGTTACTTGCTTTACCTTTTCAGGGCTGGCTCCTGATCCACTTTGGGGGAGGAGAACATGAGTAGATAATTTCAGGGTGCAGCCCAATCTGCCAGACTTAAAAAAACCATCTTGTGTCTTTGGAGGTGCTGCTTAATACCAAACATGCGGTGCCATGAAGGGACCCTTTGGGGGTTGAATAGGAGTTAACCCCTGCGCTCTCTTTGCAACTGTCTCTCTTCTCAGAGTGGTGGGGGAAGGCTGTACGACACGGGTGGGGAAAGGAGGTGGGGGCGGGGAGTATTGAATGGTGGTGGAAGGGTAGAGAGGCGCGGAGTGAACCCCACGCCCTGTCTAAAGTGTATTTTCAGAGCCGGCCCGCCTCTCCTCGGTTCAAGGTCACTGTTTCCTGGGCACGCACTGGGTTGCGGGACAGAGTAGCCAGGTTCTGCCGGTGCTCGGAGAAGAGCGCAGTGTTTTGCAAGTGCTGGAGTCTCCTGAGGACACGCGCGTCGCCGCCACCGCGGGTGTGGGAAAGCGCGGACGTGCTGGGCGGCTGTGCTTCGGTAGGCGACCACCGCCCCTGGCCGCGCTCCGGGCTTTCACGGAAACTCCCGAGACCGGGCCCTGGGTTCCTCCTCTCCTACTCGGCTCTGCAGTCCTACTCAAGCGGGTGGCTCTGGGATCCTGGGGGCCTGGGTTGGGGGCTAGGGAGACGCCATGTGATGGACACTCCAGGGACACACAGCCTAGCACAGCAGCTTATAATGGGCTCTCCGGGGCCATTTGCAATAACAGCTGCAATTCCCTGGATAGACGAGTTGATTTCCTCCCTCTGCCCCTCCCCCAGCCATGCCAGCTGGCCTTTGTAAGTGCAGGAAACCGAGTAGAAAATGTGACCCTCCAAATGGAGAAGCTGCAGGCTTTGCCATTGTGAACCATGGTGAAGTGCTTGGAACATACTGTTCACTCACTCTAAAGGCGCTGAGACTGTGCTGTTGTTCTCGTTTTTATAGTCAATGGCTTGTTCATCATCCAGATGTGGCTACTGACATATCTACACTTCGCACCGGAGTGTCTGGAATTGTGGCTATCCTGATTATAGGATTTTAACTTAACTGAAATGCCTGCTTTGAATAAATGTGTTGGGTTTTTTGTTTGGTTTTATTTTATACTTGCCATCAGTGAAAAAGATGTACAGAACACATTTCTCTGATCTCCATAAACATGAAAACACTTGAAATCTC"}
+
+    - Let's try with another valid gene: http://localhost:8000/geneSeq?gene=FRAT2&json=1
+        {"seq": "AGGCGCGTGGCTCGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCTGCTCCGGCTTCGCCCGCAGCTCCGCGCCCGCGGGCAACCAAGCCCCCAGCGAAGCCCGCACAGCTCCGGGTGCCAGGACGGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGACGACAGCTTCCTCCTGCTGCAGCAGTCGGTGACGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGGACAGCCCGGCCTCGCCGTGCGCGCCCCCGGGGGTGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCCGGCCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCTTCGGCTGAGACGGTGGGCCCGGCGCCCTCTGGGGCCCTGCGCTGCGCCCTAGGGGACCGCGGCCGCGTGCGCGGACGCGCTGCGCCCTACTGCGTGGCGGAGGTCGCCGCAGGCCCCAGCGCGCTGCCGGGGCCGTGCCGGCGAGGATGGCTCAGGGACGCGGTCACCTCCCGCCGCTTGCAGCAGCGCCGATGGACCCAAGCCGGGGCACGCGCCGGCGACGACGACCCGCATCGGCTCCTCCAGCAGCTCGTGCTCTCGGGAAACCTCATCAAGGAAGCCGTGCGGAGACTCCAACGAGCCGTCGCCGCGGTTGCAGCCACGGGCCCCGCAAGCGCCCCTGGGCCCGGGGGAGGCCGCAGCGGACCTGACCGCATTGCCCTGCAGCCCTCAGGCTCCTTGCTCTGACGCAGGCCTCCTGGAGGAGGAAGTGGAGGCCGCTGCGTAGACCCAACAGCGTCCAGTTCCTACTAACTCTGAGCTGAAGCCGACGTCGCCAGCCTGGGAGCGACCACTTTGGCTGCGGGGAGGCGCGTGGGGAGAGATCTCAACCAGAGAAGTTACCAGCCGCGGCGAGGCCGTCGGAGAAAACTTAAGCGTGGAGAAATGTATGCGCCAGGGTGCTTCCGTGGGGCATGAGAATTTCCCGGGCCATCCAAGCCCAAGGACCTGGGATAAACTGGGAGAACTATGGCAGCTACTTGCATCGACTTGTACCTCACTTAGCCCTTGGGGGCGTCGTGAGCTTGGATTGTTTAAGGAGGGCTCAGGGGTAGGAATCGCGATGGCTTTATAACAATACTTGAAAACTAACGACACGCATACATTTTCTTATTTTCTGGTGGAGGAGCTTAGTAAGTGGTGCTACAATTGCTGTGCAAAGAAATTCCAGAGGGGAGAAGAATGTAAAAGTTTGGTGGTGGGTGGCTTGGCATTGCCCCTTTTTCCCACCGATTCGGTGGCTGGTGAAGGTGGGAGATGTGAACTCCAATTAAGGGACTGGAGAGAGGTGAAGAATTTTGCAGGTGGGAGATTTGGATTTGAATGTGGACTTGTAAATGACTTGACCTTGCCATCTGTGTTCAAGGTCACGGTTTGCTGTGGGGTTCCTGGGAGAGCTTACTCACCCCGGAGTCTTTTCTTTCTCTTGCTCCAAGAAGAGCCCTGTTGGTGCTTTACCACCGCTTGGAGTCTCCCGAGGACACAAACAGGCAGAGAGGGACGTGTAGGGAGAGTTCTTTCCTGTTTTCTGTGCTTTCCTTTTTACAGGACTCCCGGAAGGCCACTCATGGCCATGCCAGGAGCTTTCTCAGAAACAGTCATAAACGATCTCTTGAGTCTCTTTCTTGTCCTCCCAGCTGAGCTTTCTTATTCCACCCTTTCTGGTGTCTATAGGAATGCATGAGAGACCCTGGACGTTTTTCTGCTCTCTTCTGGCCCTCCATGGAGTCATGGGCCTCGGCCTCGGCGGCTCCTCACCCTCACAATTTATTTCCTCCTCCCGTGCCAGCCCTTCTTTTGTGTCTGAAACCGGTTTTAAAATGTGACTCTCCCAGAGAAGAAGCCGCTGGCTGTATGAAACTTGACGGCGCTTTTGTAAGGTGCCACCCCCAAACTTTAAGGTAGCTAAACCAATTTTTAAAAGATTCAATGGCTTGTTCATCCTCCAGATGTAGCTATTGATGTACACTTCGCAACGGAGTGTCTGAAATTGTGGTGGTCCTGATTTATAGGATTTCATAATTAAAATGTCTGCTGAATAAATTTGGCTTTTGTTTTGGA"}
+
+    - Let's try with an invalid gene(combination of letters): http://localhost:8000/geneSeq?gene=LALALLA&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try with another invalid gene(combination of numbers): http://localhost:8000/geneSeq?gene=4213143242&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending the parameters in blank: http://localhost:8000/geneSeq?gene=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+
+
+    Let's try the second endpoint: /geneInfo
+
+    - Let's try sending a valid gene: http://localhost:8000/geneInfo?gene=FRAT1&json=1
+        {"start": 97319267, "end": 97321915, "length": 2648, "chromosome": "10"}
+
+    - Let's try sending another valid gene: http://localhost:8000/geneInfo?gene=FRAT2&json=1
+        {"start": 97332497, "end": 97334709, "length": 2212, "chromosome": "10"}
+
+    - Let's try with an invalid gene(combination of letters): http://localhost:8000/geneInfo?gene=LALALLA&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try with another invalid gene(combination of numbers): http://localhost:8000/geneInfo?gene=4213143242&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending the parameters in blank: http://localhost:8000/geneInfo?gene=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try switch the parameters of site: http://localhost:8000/geneInfo?json=1&gene=FRAT1
+        {"start": 97319267, "end": 97321915, "length": 2648, "chromosome": "10"}
+
+
+
+    Let's try now with the third endpoint: /geneCal
+
+    - Let's try sending a valid gene: http://localhost:8000/geneCal?gene=FRAT1&json=1
+        {"sequence": "ATTCCGGCTCCCGCGGCTGCAGGCGCGCGGCTAGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCGGCCCCGGTCCAGACTTAGTCTTCAGCTCCGCGCCCGCTCCGCCGCGGCCCACCGCGCCCGCCGGCAGCCGAGCCCCCAGCGACGCCCGCACAGCTCCGGGTGCCCAGACAGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGAGGACAGCTTCCTCCTACTGCAGCAGTCAGTGGCGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGCACAGCCCGGCCTCGCCGTGCGGGCCCCCGGGGGCGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCAGGTCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCGTTGGCGGAGACTGTGGGCCCGGCGCCCCCTGGGGTCCTGCGCTGCGCCCTGGGGGACCGCGGCCGCGTGCGGGGCCGCGCTGCGCCCTACTGCGTGGCCGAGCTCGCCACAGGCCCCAGCGCGCTGTCCCCACTGCCCCCTCAGGCCGACCTTGATGGGCCTCCGGGAGCTGGCAAGCAGGGCATCCCGCAGCCGCTGTCGGGTCCGTGCCGGCGAGGATGGCTCCGGGGCGCCGCCGCCTCCCGCCGCCTGCAGCAGCGACGCGGGTCCCAACCAGAAACCCGCACAGGCGACGACGACCCGCACCGGCTTCTGCAGCAGCTAGTGCTCTCTGGAAACCTCATCAAGGAGGCCGTGCGAAGGCTTCATTCGCGACGGCTGCAGTTACGTGCAAAGCTTCCCCAACGCCCGCTCCTGGGACCTCTGTCGGCCCCGGTGCATGAACCCCCTTCGCCTCGCAGCCCTCGCGCGGCCTGCAGTGACCCTGGCGCCTCCGGGAGGGCGCAGCTCAGAACTGGCGACGGCGTTCTTGTGCCTGGCAGCTAACACGCCCGGGGTGGCCACAGCGCCAGCCTCAGACTGGAGGGCAAGGGGTTCCCTTGAGGGCTGCAGTTCTACTCAGGCTGGTGGAGAACTCTGGCTTTTGGAAGCGAGAGTAAAAAGCTAATGACGAGGAACCGAAAAATCGCGAGTGTTTCGCGGGTAACTGGGGTTGAGGGCCAAAATATTTGGAATGAAGGACTTTGGCCCTATTTAAGGCAGATTTTACAGAGCGCACCTCAAACGTACAAGTCAGTAGGACTCCTTATTTGGCGTGACCCGACCTGGCCGCGGAGCCTGCATTTCCTCGCAGCCTCTCAGTGCCCTCCAGCCCCGCGACCATGTGGCCACAATCCACGCTTCTCCGGATCGCGGTGCGCCGGAACCACGGAGGATGATGCCAGTTACTTGCTTTACCTTTTCAGGGCTGGCTCCTGATCCACTTTGGGGGAGGAGAACATGAGTAGATAATTTCAGGGTGCAGCCCAATCTGCCAGACTTAAAAAAACCATCTTGTGTCTTTGGAGGTGCTGCTTAATACCAAACATGCGGTGCCATGAAGGGACCCTTTGGGGGTTGAATAGGAGTTAACCCCTGCGCTCTCTTTGCAACTGTCTCTCTTCTCAGAGTGGTGGGGGAAGGCTGTACGACACGGGTGGGGAAAGGAGGTGGGGGCGGGGAGTATTGAATGGTGGTGGAAGGGTAGAGAGGCGCGGAGTGAACCCCACGCCCTGTCTAAAGTGTATTTTCAGAGCCGGCCCGCCTCTCCTCGGTTCAAGGTCACTGTTTCCTGGGCACGCACTGGGTTGCGGGACAGAGTAGCCAGGTTCTGCCGGTGCTCGGAGAAGAGCGCAGTGTTTTGCAAGTGCTGGAGTCTCCTGAGGACACGCGCGTCGCCGCCACCGCGGGTGTGGGAAAGCGCGGACGTGCTGGGCGGCTGTGCTTCGGTAGGCGACCACCGCCCCTGGCCGCGCTCCGGGCTTTCACGGAAACTCCCGAGACCGGGCCCTGGGTTCCTCCTCTCCTACTCGGCTCTGCAGTCCTACTCAAGCGGGTGGCTCTGGGATCCTGGGGGCCTGGGTTGGGGGCTAGGGAGACGCCATGTGATGGACACTCCAGGGACACACAGCCTAGCACAGCAGCTTATAATGGGCTCTCCGGGGCCATTTGCAATAACAGCTGCAATTCCCTGGATAGACGAGTTGATTTCCTCCCTCTGCCCCTCCCCCAGCCATGCCAGCTGGCCTTTGTAAGTGCAGGAAACCGAGTAGAAAATGTGACCCTCCAAATGGAGAAGCTGCAGGCTTTGCCATTGTGAACCATGGTGAAGTGCTTGGAACATACTGTTCACTCACTCTAAAGGCGCTGAGACTGTGCTGTTGTTCTCGTTTTTATAGTCAATGGCTTGTTCATCATCCAGATGTGGCTACTGACATATCTACACTTCGCACCGGAGTGTCTGGAATTGTGGCTATCCTGATTATAGGATTTTAACTTAACTGAAATGCCTGCTTTGAATAAATGTGTTGGGTTTTTTGTTTGGTTTTATTTTATACTTGCCATCAGTGAAAAAGATGTACAGAACACATTTCTCTGATCTCCATAAACATGAAAACACTTGAAATCTC", "percentage A": 18.0, "percentage C": 30.2, "percentage T": 32.0, "percentage G": 32.0, "length": 2649}
+
+    - Let's try sending another valid gene: http://localhost:8000/geneCal?gene=FRAT2&json=1
+        {"sequence": "AGGCGCGTGGCTCGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCTGCTCCGGCTTCGCCCGCAGCTCCGCGCCCGCGGGCAACCAAGCCCCCAGCGAAGCCCGCACAGCTCCGGGTGCCAGGACGGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGACGACAGCTTCCTCCTGCTGCAGCAGTCGGTGACGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGGACAGCCCGGCCTCGCCGTGCGCGCCCCCGGGGGTGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCCGGCCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCTTCGGCTGAGACGGTGGGCCCGGCGCCCTCTGGGGCCCTGCGCTGCGCCCTAGGGGACCGCGGCCGCGTGCGCGGACGCGCTGCGCCCTACTGCGTGGCGGAGGTCGCCGCAGGCCCCAGCGCGCTGCCGGGGCCGTGCCGGCGAGGATGGCTCAGGGACGCGGTCACCTCCCGCCGCTTGCAGCAGCGCCGATGGACCCAAGCCGGGGCACGCGCCGGCGACGACGACCCGCATCGGCTCCTCCAGCAGCTCGTGCTCTCGGGAAACCTCATCAAGGAAGCCGTGCGGAGACTCCAACGAGCCGTCGCCGCGGTTGCAGCCACGGGCCCCGCAAGCGCCCCTGGGCCCGGGGGAGGCCGCAGCGGACCTGACCGCATTGCCCTGCAGCCCTCAGGCTCCTTGCTCTGACGCAGGCCTCCTGGAGGAGGAAGTGGAGGCCGCTGCGTAGACCCAACAGCGTCCAGTTCCTACTAACTCTGAGCTGAAGCCGACGTCGCCAGCCTGGGAGCGACCACTTTGGCTGCGGGGAGGCGCGTGGGGAGAGATCTCAACCAGAGAAGTTACCAGCCGCGGCGAGGCCGTCGGAGAAAACTTAAGCGTGGAGAAATGTATGCGCCAGGGTGCTTCCGTGGGGCATGAGAATTTCCCGGGCCATCCAAGCCCAAGGACCTGGGATAAACTGGGAGAACTATGGCAGCTACTTGCATCGACTTGTACCTCACTTAGCCCTTGGGGGCGTCGTGAGCTTGGATTGTTTAAGGAGGGCTCAGGGGTAGGAATCGCGATGGCTTTATAACAATACTTGAAAACTAACGACACGCATACATTTTCTTATTTTCTGGTGGAGGAGCTTAGTAAGTGGTGCTACAATTGCTGTGCAAAGAAATTCCAGAGGGGAGAAGAATGTAAAAGTTTGGTGGTGGGTGGCTTGGCATTGCCCCTTTTTCCCACCGATTCGGTGGCTGGTGAAGGTGGGAGATGTGAACTCCAATTAAGGGACTGGAGAGAGGTGAAGAATTTTGCAGGTGGGAGATTTGGATTTGAATGTGGACTTGTAAATGACTTGACCTTGCCATCTGTGTTCAAGGTCACGGTTTGCTGTGGGGTTCCTGGGAGAGCTTACTCACCCCGGAGTCTTTTCTTTCTCTTGCTCCAAGAAGAGCCCTGTTGGTGCTTTACCACCGCTTGGAGTCTCCCGAGGACACAAACAGGCAGAGAGGGACGTGTAGGGAGAGTTCTTTCCTGTTTTCTGTGCTTTCCTTTTTACAGGACTCCCGGAAGGCCACTCATGGCCATGCCAGGAGCTTTCTCAGAAACAGTCATAAACGATCTCTTGAGTCTCTTTCTTGTCCTCCCAGCTGAGCTTTCTTATTCCACCCTTTCTGGTGTCTATAGGAATGCATGAGAGACCCTGGACGTTTTTCTGCTCTCTTCTGGCCCTCCATGGAGTCATGGGCCTCGGCCTCGGCGGCTCCTCACCCTCACAATTTATTTCCTCCTCCCGTGCCAGCCCTTCTTTTGTGTCTGAAACCGGTTTTAAAATGTGACTCTCCCAGAGAAGAAGCCGCTGGCTGTATGAAACTTGACGGCGCTTTTGTAAGGTGCCACCCCCAAACTTTAAGGTAGCTAAACCAATTTTTAAAAGATTCAATGGCTTGTTCATCCTCCAGATGTAGCTATTGATGTACACTTCGCAACGGAGTGTCTGAAATTGTGGTGGTCCTGATTTATAGGATTTCATAATTAAAATGTCTGCTGAATAAATTTGGCTTTTGTTTTGGA", "percentage A": 18.5, "percentage C": 28.4, "percentage T": 31.9, "percentage G": 31.9, "length": 2213}
+
+    - Let's try with an invalid gene(combination of letters): http://localhost:8000/geneCal?gene=LALALLA&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try with another invalid gene(combination of numbers): http://localhost:8000/geneCal?gene=4213143242&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending the parameters in blank: http://localhost:8000/geneCal?gene=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try sending no parameters: http://localhost:8000/geneCal&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try switch the parameters of site: http://localhost:8000/geneCal?json=1&gene=FRAT1
+        {"sequence": "ATTCCGGCTCCCGCGGCTGCAGGCGCGCGGCTAGAGTGCCTGGCGGGCTCCGGCTTCCGCGTCCGCCCCGGCCCCGGTCCAGACTTAGTCTTCAGCTCCGCGCCCGCTCCGCCGCGGCCCACCGCGCCCGCCGGCAGCCGAGCCCCCAGCGACGCCCGCACAGCTCCGGGTGCCCAGACAGGGGGCCATGCCGTGCCGGAGGGAGGAGGAAGAGGAAGCCGGCGAGGAGGCGGAGGGGGAGGAAGAGGAGGAGGACAGCTTCCTCCTACTGCAGCAGTCAGTGGCGCTGGGCAGCTCGGGCGAGGTGGACCGGCTGGTGGCCCAGATCGGCGAGACGCTGCAGCTGGACGCGGCGCAGCACAGCCCGGCCTCGCCGTGCGGGCCCCCGGGGGCGCCGCTGCGGGCCCCGGGGCCCCTGGCTGCGGCGGTGCCGGCGGACAAGGCCAGGTCCCCGGCGGTGCCGCTGCTGCTGCCGCCCGCGTTGGCGGAGACTGTGGGCCCGGCGCCCCCTGGGGTCCTGCGCTGCGCCCTGGGGGACCGCGGCCGCGTGCGGGGCCGCGCTGCGCCCTACTGCGTGGCCGAGCTCGCCACAGGCCCCAGCGCGCTGTCCCCACTGCCCCCTCAGGCCGACCTTGATGGGCCTCCGGGAGCTGGCAAGCAGGGCATCCCGCAGCCGCTGTCGGGTCCGTGCCGGCGAGGATGGCTCCGGGGCGCCGCCGCCTCCCGCCGCCTGCAGCAGCGACGCGGGTCCCAACCAGAAACCCGCACAGGCGACGACGACCCGCACCGGCTTCTGCAGCAGCTAGTGCTCTCTGGAAACCTCATCAAGGAGGCCGTGCGAAGGCTTCATTCGCGACGGCTGCAGTTACGTGCAAAGCTTCCCCAACGCCCGCTCCTGGGACCTCTGTCGGCCCCGGTGCATGAACCCCCTTCGCCTCGCAGCCCTCGCGCGGCCTGCAGTGACCCTGGCGCCTCCGGGAGGGCGCAGCTCAGAACTGGCGACGGCGTTCTTGTGCCTGGCAGCTAACACGCCCGGGGTGGCCACAGCGCCAGCCTCAGACTGGAGGGCAAGGGGTTCCCTTGAGGGCTGCAGTTCTACTCAGGCTGGTGGAGAACTCTGGCTTTTGGAAGCGAGAGTAAAAAGCTAATGACGAGGAACCGAAAAATCGCGAGTGTTTCGCGGGTAACTGGGGTTGAGGGCCAAAATATTTGGAATGAAGGACTTTGGCCCTATTTAAGGCAGATTTTACAGAGCGCACCTCAAACGTACAAGTCAGTAGGACTCCTTATTTGGCGTGACCCGACCTGGCCGCGGAGCCTGCATTTCCTCGCAGCCTCTCAGTGCCCTCCAGCCCCGCGACCATGTGGCCACAATCCACGCTTCTCCGGATCGCGGTGCGCCGGAACCACGGAGGATGATGCCAGTTACTTGCTTTACCTTTTCAGGGCTGGCTCCTGATCCACTTTGGGGGAGGAGAACATGAGTAGATAATTTCAGGGTGCAGCCCAATCTGCCAGACTTAAAAAAACCATCTTGTGTCTTTGGAGGTGCTGCTTAATACCAAACATGCGGTGCCATGAAGGGACCCTTTGGGGGTTGAATAGGAGTTAACCCCTGCGCTCTCTTTGCAACTGTCTCTCTTCTCAGAGTGGTGGGGGAAGGCTGTACGACACGGGTGGGGAAAGGAGGTGGGGGCGGGGAGTATTGAATGGTGGTGGAAGGGTAGAGAGGCGCGGAGTGAACCCCACGCCCTGTCTAAAGTGTATTTTCAGAGCCGGCCCGCCTCTCCTCGGTTCAAGGTCACTGTTTCCTGGGCACGCACTGGGTTGCGGGACAGAGTAGCCAGGTTCTGCCGGTGCTCGGAGAAGAGCGCAGTGTTTTGCAAGTGCTGGAGTCTCCTGAGGACACGCGCGTCGCCGCCACCGCGGGTGTGGGAAAGCGCGGACGTGCTGGGCGGCTGTGCTTCGGTAGGCGACCACCGCCCCTGGCCGCGCTCCGGGCTTTCACGGAAACTCCCGAGACCGGGCCCTGGGTTCCTCCTCTCCTACTCGGCTCTGCAGTCCTACTCAAGCGGGTGGCTCTGGGATCCTGGGGGCCTGGGTTGGGGGCTAGGGAGACGCCATGTGATGGACACTCCAGGGACACACAGCCTAGCACAGCAGCTTATAATGGGCTCTCCGGGGCCATTTGCAATAACAGCTGCAATTCCCTGGATAGACGAGTTGATTTCCTCCCTCTGCCCCTCCCCCAGCCATGCCAGCTGGCCTTTGTAAGTGCAGGAAACCGAGTAGAAAATGTGACCCTCCAAATGGAGAAGCTGCAGGCTTTGCCATTGTGAACCATGGTGAAGTGCTTGGAACATACTGTTCACTCACTCTAAAGGCGCTGAGACTGTGCTGTTGTTCTCGTTTTTATAGTCAATGGCTTGTTCATCATCCAGATGTGGCTACTGACATATCTACACTTCGCACCGGAGTGTCTGGAATTGTGGCTATCCTGATTATAGGATTTTAACTTAACTGAAATGCCTGCTTTGAATAAATGTGTTGGGTTTTTTGTTTGGTTTTATTTTATACTTGCCATCAGTGAAAAAGATGTACAGAACACATTTCTCTGATCTCCATAAACATGAAAACACTTGAAATCTC", "percentage A": 18.0, "percentage C": 30.2, "percentage T": 32.0, "percentage G": 32.0, "length": 2649}
+
+
+
+
+    Let's try now with the last endpoint for the last phase: /geneList
+
+    - Let's try with three valid values for chromosome(number), start and end: http://localhost:8000/geneList?chromo=1&start=0&end=30000&json=1
+        [{"name": "DDX11L1", "start": 11869, "end": 14409}, {"name": "WASH7P", "start": 14404, "end": 29570}, {"name": "MIR6859-1", "start": 17369, "end": 17436}, {"name": "MIR1302-2HG", "start": 29554, "end": 31109}]
+
+    - Let's try with another three valid values for chromosome(letter), start and end: http://localhost:8000/geneList?chromo=Y&start=0&end=1000000&json=1
+        [{"name": "AL954722.1", "start": 253743, "end": 255091}, {"name": "PLCXD1", "start": 276322, "end": 303356}, {"name": "GTPBP6", "start": 304529, "end": 318819}, {"name": "LINC00685", "start": 320990, "end": 321851}, {"name": "PPP2R3B", "start": 333963, "end": 386955}, {"name": "AL732314.6", "start": 386980, "end": 405579}, {"name": "RF00017", "start": 388100, "end": 388389}, {"name": "AL732314.4", "start": 419157, "end": 421980}, {"name": "FABP5P13", "start": 523775, "end": 524102}, {"name": "KRT18P53", "start": 545236, "end": 545352}, {"name": "SHOX", "start": 624344, "end": 659411}, {"name": "AL672277.1", "start": 990221, "end": 994365}]
+
+    - Let's try with three invalid parameters: http://localhost:8000/geneList?chromo=lallaa&start=klfjaz&end=nasfn&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now with a blank chromosome and valid starts and ends: http://localhost:8000/geneList?chromo=&start=0&end=30000&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now with a blank start and valid chromosome and ends: http://localhost:8000/geneList?chromo=1&start=&end=30000&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now with a blank end and valid chromosome and start: http://localhost:8000/geneList?chromo=1&start=0&end=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now sending all the parameters in blank: http://localhost:8000/geneList?chromo=&start=&end=&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try not sending one of the parameters in the url: http://localhost:8000/geneList?chromo=1&end=30000&json=1
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <meta charset="utf-8">
+            <title>Error</title>
+          </head>
+          <body background="https://okdiario.com/img/2018/03/13/como-calcular-porcentaje-de-error-655x368.jpg">
+            <h1><FONT FACE="impact">SORRY WE CAN NOT HELP YOU WITH THAT REQUEST</FONT></h1>
+            <MARQUEE bgcolor = red ><h1>WE HOPE TO BE ABLE TO HELP YOU NEXT TIME</h1></MARQUEE>
+          </body>
+        </html>
+
+    - Let's try now changing the order of the parameters in the url: http://localhost:8000/geneList?chromo=1&end=30000&start=0&json=1
+        [{"name": "DDX11L1", "start": 11869, "end": 14409}, {"name": "WASH7P", "start": 14404, "end": 29570}, {"name": "MIR6859-1", "start": 17369, "end": 17436}, {"name": "MIR1302-2HG", "start": 29554, "end": 31109}]
+
+    - Let's try now changing in another order the parameters of the url: http://localhost:8000/geneList?end=30000&chromo=1&start=0&json=1
+        [{"name": "DDX11L1", "start": 11869, "end": 14409}, {"name": "WASH7P", "start": 14404, "end": 29570}, {"name": "MIR6859-1", "start": 17369, "end": 17436}, {"name": "MIR1302-2HG", "start": 29554, "end": 31109}]
+
