@@ -1,3 +1,5 @@
+# THIS IS THE JSON CLIENT FOR MY FINAL PRACTICE #
+
 import http.client
 import json
 
