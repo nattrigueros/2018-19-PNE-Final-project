@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome! Let's get some interesting information from Ensembl</title>
+  </head>
+  <body style="background-color: lightgreen;">
+  <font align="center" face="Trebuchet MS,arial">
+    <MARQUEE bgcolor = #4FDFC4 ><h1>WELCOME!</h1></MARQUEE>
+    <h1>Let's get some interesting information from Ensembl</h1>
+  </font>
+    <p>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</p>
+    <img align ='right' height="450px" src="https://www.verywellhealth.com/thmb/hzmwXM1_hCXSBLzlDlXTMamEEUo=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/147219131-56a09a665f9b58eba4b1fd03.jpg">
+    <form action='/listSpecies' method="get">
+        <font face="Trebuchet MS"><b>GET A LIST OF THE AVAILABLE SPECIES IN THE DATA BASE</b></font><br><br>
+        <font face="Trebuchet MS">Would you like to set a limit?</font>
+        <input type = 'text' size="5" name="limit"><br><br>
+        <input type = 'checkbox' name="json" value="1">
+        <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+        <input type = 'submit' value="SUBMIT">
+    </form>
+
+    <p>____________________________________________________________________________________</p>
+    <form action='/karyotype' method="get">
+        <font face="Trebuchet MS"><b>GET THE FULL KARYOTYPE INFORMATION OF A GIVEN SPECIE</b></font><br><br>
+        <font face="Trebuchet MS"> Introduce the name of the desired specie:</font>
+        <input type = 'text' size="19" name="specie"><br><br>
+        <input type = 'checkbox' name="json" value="1">
+        <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+        <input type = 'submit' value="SUBMIT">
+     </form>
+
+    <p>____________________________________________________________________________________</p>
+    <form action='/chromosomeLength' method="get">
+        <font face="Trebuchet MS"><b>GET THE CHROMOSOME LENGTH INFORMATION OF A GIVEN SPECIE</b></font><br><br>
+        <font face="Trebuchet MS">Introduce the name of the desired specie:</font>
+        <input type = 'text' size="19" name="specie"><br>
+        <font face="Trebuchet MS">Introduce the desired chromosome:</font>
+        <input type = 'text' size="19" name="chromo"><br><br>
+        <input type = 'checkbox' name="json" value="1">
+        <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+        <input type = 'submit' value="SUBMIT"><br>
+     </form>
+    <p>____________________________________________________________________________________</p>
+    <form action='/geneSeq' method="get">
+        <font face="Trebuchet MS"><b>GET THE SEQUENCE OF A GIVEN HUMAN GENE</b></font><br><br>
+        <font face="Trebuchet MS">Introduce the desired gene: </font>
+        <input type = 'text' size="19" name="gene"><br><br>
+        <input type = 'checkbox' name="json" value="1">
+        <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+        <input type = 'submit' value="SUBMIT">
+    </form>
+
+    <p>____________________________________________________________________________________</p>
+    <form action='/geneInfo' method="get">
+        <font face="Trebuchet MS"><b>GET DIFFERENT KINDS OF INFORMATION ABOUT A GIVEN GENE</b></font><br><br>
+        <font face="Trebuchet MS">Introduce the desired gene: </font>
+        <input type = 'text' size="19" name="gene"><br><br>
+        <input type = 'checkbox' name="json" value="1">
+        <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+        <input type = 'submit' value="SUBMIT">
+     </form>
+
+    <p>____________________________________________________________________________________</p>
+    <form action='/geneCal' method="get">
+        <font face="Trebuchet MS"><b>GET THE TOTAL LENGTH AND THE PERCENTAGE OF ALL BASES OF A GIVEN GENE</b></font><br><br>
+        <font face="Trebuchet MS">Introduce the desired gene: </font>
+        <input type = 'text' size="19" name="gene"><br><br>
+        <input type = 'checkbox' name="json" value="1">
+        <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+        <input type = 'submit' value="SUBMIT">
+     </form>
+    <p>____________________________________________________________________________________</p>
+    <form action='/geneList' method="get">
+        <font face="Trebuchet MS"><b>GET THE NAMES OF THE GENES IN A GIVEN CHROMOSOME FROM A START TO AN END POINT</b></font><br><br>
+        <font face="Trebuchet MS">Introduce the desired chromosome:</font>
+        <input type = 'text' size="19" name="chromo"><br>
+        <font face="Trebuchet MS">Introduce the point of start:</font>
+        <input type = 'text' size="19" name="start"><br>
+        <font face="Trebuchet MS">Introduce the point of end:</font>
+        <input type = 'text' size="19" name="end"><br><br>
+        <input type = 'checkbox' name="json" value="1">
+        <font face="Trebuchet MS">Would you like to get the response in a JSON format?</font><br><br>
+        <input type = 'submit' value="SUBMIT">
+     </form>
+  </body>
+</html>
